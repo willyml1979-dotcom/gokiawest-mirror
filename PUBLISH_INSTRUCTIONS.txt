@@ -1,0 +1,19 @@
+AiOptics — Publishing this mirror set
+=====================================
+
+GITHUB PAGES (pilot):
+1. Create a new PUBLIC repository on github.com (e.g. "kiawest-mirror").
+2. Unzip this file. Upload ALL contents to the repository
+   (web UI: "Add file > Upload files", drag everything, Commit).
+3. Repo Settings > Pages > Source: "Deploy from a branch",
+   Branch: main, Folder: / (root). Save.
+4. Your mirrors go live at: https://gokiawest.aioptics.ca
+5. Verify: open https://gokiawest.aioptics.ca/sitemap.xml in your browser.
+
+NOTES:
+- robots.txt is only honored at the DOMAIN root. On username.github.io/repo
+  it is informational; full bot control activates once you attach a custom
+  domain (e.g. ai.dealership.com via a CNAME record).
+- To update: re-export from AiOptics and upload again (or use git push).
+- Cloudflare Pages works the same way: create project, drag the unzipped
+  folder into the deploy box. Done.
