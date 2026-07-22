@@ -1,47 +1,11 @@
-# AiOptics Mirror host — AI crawlers welcome, search engines out
+# AiOptics Mirror host — open to AI assistants and search, Google excluded
 
-User-agent: GPTBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: OAI-SearchBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Perplexity-User
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: meta-externalagent
-Allow: /
-
-# Traditional search engines: do not index mirrors
+# Google stays out: doesn't feed AI search, avoids duplicate content
 User-agent: Googlebot
 Disallow: /
 
-User-agent: Bingbot
-Disallow: /
-
-# Everyone else not listed above
+# Everyone else (all AI assistants, Bing, and other agents) is welcome
 User-agent: *
-Disallow: /
+Allow: /
 
 Sitemap: https://gokiawest.aioptics.ca/sitemap.xml
