@@ -1,10 +1,46 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-07-23T10:52:33",
-  "vehicle_count": 132,
+  "generated_at": "2026-07-23T16:33:44",
+  "vehicle_count": 150,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "2007 Ford F-150 XLT | SUNROOF | LEATHER | PWR DR SEAT | PARK SENSO",
+      "vin": "1FTPW14V57FB54753",
+      "url": "https://gokiawest.aioptics.ca/used/1e5bd8598666.html",
+      "price": 8999.0,
+      "price_currency": "CAD",
+      "odometer_km": 225704,
+      "year": 2007,
+      "make": "Ford",
+      "model": "F-150 XLT",
+      "condition": "used"
+    },
+    {
+      "name": "2011 GMC Terrain SLE-1 | REVERSE CAMERA | ECO MODE | CRUISE CONTROL",
+      "vin": "2CTALMEC9B6447527",
+      "url": "https://gokiawest.aioptics.ca/used/127d18b49da7.html",
+      "price": 6999.0,
+      "price_currency": "CAD",
+      "odometer_km": 142356,
+      "year": 2011,
+      "make": "GMC",
+      "model": "Terrain SLE-1",
+      "condition": "used"
+    },
+    {
+      "name": "2012 Kia Optima Hybrid Hybrid | PUSH START | HEATED SEAT | POWER DR SEAT",
+      "vin": "KNAGM4AD1C5032794",
+      "url": "https://gokiawest.aioptics.ca/used/7090dbe95687.html",
+      "price": 8498.0,
+      "price_currency": "CAD",
+      "odometer_km": 103258,
+      "year": 2012,
+      "make": "Kia",
+      "model": "Optima Hybrid Hybrid",
+      "condition": "used"
+    },
     {
       "name": "2013 Hyundai Santa Fe Limited | NAVIGATION | HEATED /COOLED SEATS | LEAT",
       "vin": "5XYZUDLAXDG067132",
@@ -35,7 +71,7 @@
       "url": "https://gokiawest.aioptics.ca/used/90390bc3b66a.html",
       "price": 10999.0,
       "price_currency": "CAD",
-      "odometer_km": 118241,
+      "odometer_km": 118660,
       "year": 2014,
       "make": "Kia",
       "model": "Soul EX",
@@ -90,6 +126,18 @@
       "condition": "used"
     },
     {
+      "name": "2016 Land Rover Range Rover Sport Td6 HSE | NAVIGATION | LEATHER | SUNROOF | HEATED/",
+      "vin": "SALWR2KF5GA547209",
+      "url": "https://gokiawest.aioptics.ca/used/fb97624c75f3.html",
+      "price": 24998.0,
+      "price_currency": "CAD",
+      "odometer_km": 94766,
+      "year": 2016,
+      "make": "Land",
+      "model": "Rover Range Rover Sport Td6 HSE",
+      "condition": "used"
+    },
+    {
       "name": "2017 Ford Escape Titanium | NAVIGATION | LEATHER | SUNROOF | HEATED",
       "vin": "1FMCU9J93HUA97407",
       "url": "https://gokiawest.aioptics.ca/used/c16c6245f6e1.html",
@@ -114,6 +162,18 @@
       "condition": "used"
     },
     {
+      "name": "2017 Hyundai Tucson Premium | REVERSE CAMERA | HEATED SEATS | HEATED S",
+      "vin": "KM8J3CA48HU484658",
+      "url": "https://gokiawest.aioptics.ca/used/adc58b665bd0.html",
+      "price": 13499.0,
+      "price_currency": "CAD",
+      "odometer_km": 119412,
+      "year": 2017,
+      "make": "Hyundai",
+      "model": "Tucson Premium",
+      "condition": "used"
+    },
+    {
       "name": "2017 Kia Sorento EX V6 | DRIVE MODE SELECT | PARK SENSORS | HEATED",
       "vin": "5XYPHDA58HG197806",
       "url": "https://gokiawest.aioptics.ca/used/32290618412b.html",
@@ -135,6 +195,18 @@
       "year": 2017,
       "make": "Lexus",
       "model": "RX 350",
+      "condition": "used"
+    },
+    {
+      "name": "2017 Mercedes-Benz GLC GLC 300 | NAVIGATION | LEATHER | SUNROOF | 360 CAM",
+      "vin": "WDC0G4KB7HF222779",
+      "url": "https://gokiawest.aioptics.ca/used/5ba70a9a7b87.html",
+      "price": 22299.0,
+      "price_currency": "CAD",
+      "odometer_km": 68562,
+      "year": 2017,
+      "make": "Mercedes-Benz",
+      "model": "GLC GLC 300",
       "condition": "used"
     },
     {
@@ -179,7 +251,7 @@
       "url": "https://gokiawest.aioptics.ca/used/64beff26eef3.html",
       "price": 11799.0,
       "price_currency": "CAD",
-      "odometer_km": 180951,
+      "odometer_km": 180955,
       "year": 2018,
       "make": "Kia",
       "model": "Niro SX Touring",
@@ -258,6 +330,18 @@
       "condition": "used"
     },
     {
+      "name": "2019 Kia Soul EV EV | NAVIGATION | HEATED SEAT & STEERING | PUSH ST",
+      "vin": "KNDJP3AE9K7038042",
+      "url": "https://gokiawest.aioptics.ca/used/a2b20369bd11.html",
+      "price": 12399.0,
+      "price_currency": "CAD",
+      "odometer_km": 143382,
+      "year": 2019,
+      "make": "Kia",
+      "model": "Soul EV EV",
+      "condition": "used"
+    },
+    {
       "name": "2019 Kia Stinger GT-Line | LEATHER | HEATED SEAT | BLIND SPOT DETEC",
       "vin": "KNAE25LA1K6042224",
       "url": "https://gokiawest.aioptics.ca/used/98897ac629a0.html",
@@ -330,18 +414,6 @@
       "condition": "used"
     },
     {
-      "name": "2020 Kia Forte LX | HEATED SEATS | ANDROID AUTO & APPLE CARPLAY |",
-      "vin": "3KPF24AD2LE160910",
-      "url": "https://gokiawest.aioptics.ca/used/194262a8f7fd.html",
-      "price": 9999.0,
-      "price_currency": "CAD",
-      "odometer_km": 108060,
-      "year": 2020,
-      "make": "Kia",
-      "model": "Forte LX",
-      "condition": "used"
-    },
-    {
       "name": "2020 Kia Sorento LX+ |  HEATED SEAT & STEERING | BLIND SPOT DETECTI",
       "vin": "5XYPGDA36LG687932",
       "url": "https://gokiawest.aioptics.ca/used/6045ef2a262a.html",
@@ -351,6 +423,18 @@
       "year": 2020,
       "make": "Kia",
       "model": "Sorento LX+",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Kia Telluride EX | LEATHER | NAVIGATION | HEATED SEATS & STEERIN",
+      "vin": "5XYP3DHC1LG013088",
+      "url": "https://gokiawest.aioptics.ca/used/00e3fd95a624.html",
+      "price": 29999.0,
+      "price_currency": "CAD",
+      "odometer_km": 54465,
+      "year": 2020,
+      "make": "Kia",
+      "model": "Telluride EX",
       "condition": "used"
     },
     {
@@ -486,6 +570,18 @@
       "condition": "used"
     },
     {
+      "name": "2022 Honda Civic Sedan Touring | NAVIGATION | LEATHER | SUNROOF | HEATED",
+      "vin": "2HGFE1F94NH006850",
+      "url": "https://gokiawest.aioptics.ca/used/1cae0b1e5b17.html",
+      "price": 28593.0,
+      "price_currency": "CAD",
+      "odometer_km": 31158,
+      "year": 2022,
+      "make": "Honda",
+      "model": "Civic Sedan Touring",
+      "condition": "used"
+    },
+    {
       "name": "2022 Honda HR-V Sport | SUNROOF | PUSH START | HEATED SEAT | ELECT",
       "vin": "3CZRU6H26NM105659",
       "url": "https://gokiawest.aioptics.ca/used/aa48dc07bad3.html",
@@ -531,6 +627,42 @@
       "year": 2022,
       "make": "Kia",
       "model": "EV6 Long Range AWD",
+      "condition": "used"
+    },
+    {
+      "name": "2022 Kia Forte GT-Line | NAVIGATION | HEATED /COOLED SEAT | BLIND",
+      "vin": "3KPF54AD1NE503104",
+      "url": "https://gokiawest.aioptics.ca/used/0ed6d32ed04f.html",
+      "price": 20999.0,
+      "price_currency": "CAD",
+      "odometer_km": 71140,
+      "year": 2022,
+      "make": "Kia",
+      "model": "Forte GT-Line",
+      "condition": "used"
+    },
+    {
+      "name": "2022 Kia Niro Plug-In Hybrid SX Touring PHEV | NAVIGATION | LEATHER | SUNROOF |",
+      "vin": "KNDCC3LD6N5544288",
+      "url": "https://gokiawest.aioptics.ca/used/e2367fe4bbba.html",
+      "price": 28999.0,
+      "price_currency": "CAD",
+      "odometer_km": 45657,
+      "year": 2022,
+      "make": "Kia",
+      "model": "Niro Plug-In Hybrid SX Touring PHEV",
+      "condition": "used"
+    },
+    {
+      "name": "2022 Kia Niro Plug-In Hybrid EX Premium PHEV | LEATHER/CLOTH SEAT | PWR DR SEAT",
+      "vin": "KNDCD3LD3N5491952",
+      "url": "https://gokiawest.aioptics.ca/used/a6ade9f67405.html",
+      "price": 26499.0,
+      "price_currency": "CAD",
+      "odometer_km": 52374,
+      "year": 2022,
+      "make": "Kia",
+      "model": "Niro Plug-In Hybrid EX Premium PHEV",
       "condition": "used"
     },
     {
@@ -726,6 +858,18 @@
       "condition": "used"
     },
     {
+      "name": "2023 Kia Niro EX Premium HEV | NAVIGATION | SUNROOF | LEATHER/CL",
+      "vin": "KNDCR3LE7P5091518",
+      "url": "https://gokiawest.aioptics.ca/used/d882135a50f3.html",
+      "price": 23799.0,
+      "price_currency": "CAD",
+      "odometer_km": 124772,
+      "year": 2023,
+      "make": "Kia",
+      "model": "Niro EX Premium HEV",
+      "condition": "used"
+    },
+    {
       "name": "2023 Kia Seltos EX | LEATHER | ANDROID AUTO & APPLE CARPLAY | SUNR",
       "vin": "KNDEUCAA1P7349723",
       "url": "https://gokiawest.aioptics.ca/used/ccdacd5dd35d.html",
@@ -858,6 +1002,18 @@
       "condition": "used"
     },
     {
+      "name": "2023 Toyota Corolla Sedan LE HEV | PUSH START | HEATED SEAT | DRIVE MODE SEL",
+      "vin": "JTDBCMFE5PJ009453",
+      "url": "https://gokiawest.aioptics.ca/used/a76108ccb995.html",
+      "price": 27499.0,
+      "price_currency": "CAD",
+      "odometer_km": 84098,
+      "year": 2023,
+      "make": "Toyota",
+      "model": "Corolla Sedan LE HEV",
+      "condition": "used"
+    },
+    {
       "name": "2023 Volkswagen ID.4 Pro AWD | NAVIGATION | HEATED SEAT & STEERING | LE",
       "vin": "1V2JNPE80PC048618",
       "url": "https://gokiawest.aioptics.ca/used/531cc32a8e0e.html",
@@ -918,6 +1074,18 @@
       "condition": "used"
     },
     {
+      "name": "2024 Hyundai Elantra Preferred W TECH PKG | NAVIGATION | LEATHER | SUNR",
+      "vin": "KMHLM4DG1RU702670",
+      "url": "https://gokiawest.aioptics.ca/used/aba6b1ad08a8.html",
+      "price": 22917.0,
+      "price_currency": "CAD",
+      "odometer_km": 39205,
+      "year": 2024,
+      "make": "Hyundai",
+      "model": "Elantra Preferred W TECH PKG",
+      "condition": "used"
+    },
+    {
       "name": "2024 Hyundai Santa Cruz PREFERRED | HEATED SEATS & STEERING  PUSH START  N",
       "vin": "5NTJCDDF5RH114045",
       "url": "https://gokiawest.aioptics.ca/used/10ae31a3d5ed.html",
@@ -966,6 +1134,18 @@
       "condition": "used"
     },
     {
+      "name": "2024 Kia K5 EX | LEATHER | WIRELESS CHARGE | HEATED SEATS & ST",
+      "vin": "5XXG34J29RG231309",
+      "url": "https://gokiawest.aioptics.ca/used/99d0352fd70e.html",
+      "price": 25499.0,
+      "price_currency": "CAD",
+      "odometer_km": 49657,
+      "year": 2024,
+      "make": "Kia",
+      "model": "K5 EX",
+      "condition": "used"
+    },
+    {
       "name": "2024 Kia Niro SX HEV | NAVIGATION | LEATHER | SUNROOF | HEATED /",
       "vin": "KNDCT3LEXR5166703",
       "url": "https://gokiawest.aioptics.ca/used/dcade74f31c9.html",
@@ -996,6 +1176,42 @@
       "price": 23999.0,
       "price_currency": "CAD",
       "odometer_km": 70865,
+      "year": 2024,
+      "make": "Kia",
+      "model": "Seltos EX AWD",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Kia Seltos LX FWD | HEATED SEAT | DRIVE MODE SELECT | ANDROID",
+      "vin": "KNDEP2AA3R7581891",
+      "url": "https://gokiawest.aioptics.ca/used/c9ebc00737f4.html",
+      "price": 21799.0,
+      "price_currency": "CAD",
+      "odometer_km": 28314,
+      "year": 2024,
+      "make": "Kia",
+      "model": "Seltos LX FWD",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Kia Seltos LX FWD | HEATED SEAT | DRIVE MODE SELECT | ANDROID",
+      "vin": "KNDEP2AA6R7491537",
+      "url": "https://gokiawest.aioptics.ca/used/7e08deef0102.html",
+      "price": 21499.0,
+      "price_currency": "CAD",
+      "odometer_km": 51231,
+      "year": 2024,
+      "make": "Kia",
+      "model": "Seltos LX FWD",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Kia Seltos EX AWD | LEATHER | SUNROOF | HEATED SEATS & STEERI",
+      "vin": "KNDEUCAA1R7626678",
+      "url": "https://gokiawest.aioptics.ca/used/4ba8a26b44fb.html",
+      "price": 23999.0,
+      "price_currency": "CAD",
+      "odometer_km": 73034,
       "year": 2024,
       "make": "Kia",
       "model": "Seltos EX AWD",
@@ -1131,18 +1347,6 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model Y STANDARD",
-      "condition": "used"
-    },
-    {
-      "name": "2024 Toyota Camry SE | HEATED SEATS | HEATED STEERING  | LEATHER  |",
-      "vin": "4T1G11AK3RU239612",
-      "url": "https://gokiawest.aioptics.ca/used/af3e80a2ed62.html",
-      "price": 26299.0,
-      "price_currency": "CAD",
-      "odometer_km": 48998,
-      "year": 2024,
-      "make": "Toyota",
-      "model": "Camry SE",
       "condition": "used"
     },
     {
@@ -1335,6 +1539,30 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Fe Ultimate Calligraphy",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Hyundai Santa Fe Luxury | NAVIGATION | SUNROOF | HEATED / COOLED SE",
+      "vin": "5NMP4DGL6SH136226",
+      "url": "https://gokiawest.aioptics.ca/used/3884fa154a9c.html",
+      "price": 39999.0,
+      "price_currency": "CAD",
+      "odometer_km": 58832,
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Santa Fe Luxury",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Hyundai Tucson Plug-In Hybrid Ultimate PHEV | NAVIGATION | SUNROOF | LEATHER | H",
+      "vin": "KM8JDDD20SU398815",
+      "url": "https://gokiawest.aioptics.ca/used/8bf592d64909.html",
+      "price": 46799.0,
+      "price_currency": "CAD",
+      "odometer_km": 6184,
+      "year": 2025,
+      "make": "Hyundai",
+      "model": "Tucson Plug-In Hybrid Ultimate PHEV",
       "condition": "used"
     },
     {
@@ -1563,18 +1791,6 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Sedan Sport",
-      "condition": "used"
-    },
-    {
-      "name": "2026 Kia Niro EX Premium HEV | POWER TAILGATE | SUNROOF | NAVIGA",
-      "vin": "KNDCR3LE0T5316467",
-      "url": "https://gokiawest.aioptics.ca/used/d1c5f62481d0.html",
-      "price": 33499.0,
-      "price_currency": "CAD",
-      "odometer_km": 2722,
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EX Premium HEV",
       "condition": "used"
     },
     {
