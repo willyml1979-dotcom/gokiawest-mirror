@@ -1,7 +1,7 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-09-04T15:39:25",
-  "vehicle_count": 141,
+  "generated_at": "2026-09-04T15:40:33",
+  "vehicle_count": 158,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -138,6 +138,42 @@
       "condition": "used"
     },
     {
+      "name": "2019 Nissan Sentra SV | REARVIEW CAMERA | PUSH START | ANDROID AUTO &",
+      "vin": "3N1AB7AP8KY363743",
+      "url": "https://gokiawest.aioptics.ca/used/d18c272162c8.html",
+      "price": 14799.0,
+      "price_currency": "CAD",
+      "odometer_km": 48750,
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Sentra SV",
+      "condition": "used"
+    },
+    {
+      "name": "2019 Volkswagen Atlas Comfortline | LEATHER ANDROID AUTO & APPLE CARPLAY",
+      "vin": "1V2LR2CA8KC587695",
+      "url": "https://gokiawest.aioptics.ca/used/40fb1ea96c21.html",
+      "price": 23599.0,
+      "price_currency": "CAD",
+      "odometer_km": 130656,
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Atlas Comfortline",
+      "condition": "used"
+    },
+    {
+      "name": "2019 Volkswagen Atlas Execline | NAVIGATION | HEATED & COOLED SEATS | LE",
+      "vin": "1V2NR2CAXKC599713",
+      "url": "https://gokiawest.aioptics.ca/used/8122a6eba457.html",
+      "price": 25499.0,
+      "price_currency": "CAD",
+      "odometer_km": 114292,
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Atlas Execline",
+      "condition": "used"
+    },
+    {
       "name": "2020 Hyundai Tucson Luxury | SUNROOF | LEATHER | HEATED SEATS & STEERI",
       "vin": "KM8J3CALXLU205694",
       "url": "https://gokiawest.aioptics.ca/used/f971d056a45b.html",
@@ -147,6 +183,42 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Tucson Luxury",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Kia Sorento EX+ V6 | LEATHER | SUNROOF | NAVIGATION | 360 CAME",
+      "vin": "5XYPHDA57LG629312",
+      "url": "https://gokiawest.aioptics.ca/used/87e014c8f211.html",
+      "price": 23899.0,
+      "price_currency": "CAD",
+      "odometer_km": 99230,
+      "year": 2020,
+      "make": "Kia",
+      "model": "Sorento EX+ V6",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Kia Soul EX Limited | NAVIGATION | LEATHER | SUNROOF | HEAT",
+      "vin": "KNDJ33AU3L7087743",
+      "url": "https://gokiawest.aioptics.ca/used/e1460e1d5b65.html",
+      "price": 14499.0,
+      "price_currency": "CAD",
+      "odometer_km": 133123,
+      "year": 2020,
+      "make": "Kia",
+      "model": "Soul EX Limited",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Kia Soul EX Limited | NAVIGATION | HUD | LEATHER | HEATED &",
+      "vin": "KNDJ33AU4L7121432",
+      "url": "https://gokiawest.aioptics.ca/used/d487dac0729b.html",
+      "price": 18699.0,
+      "price_currency": "CAD",
+      "odometer_km": 31650,
+      "year": 2020,
+      "make": "Kia",
+      "model": "Soul EX Limited",
       "condition": "used"
     },
     {
@@ -258,6 +330,18 @@
       "condition": "used"
     },
     {
+      "name": "2022 Toyota Highlander Hybrid Hybrid PLATINUM | PANORAMIC VIEW MONITOR | NAVIGAT",
+      "vin": "5TDEBRCH8NS081873",
+      "url": "https://gokiawest.aioptics.ca/used/4aa68efeed40.html",
+      "price": 46999.0,
+      "price_currency": "CAD",
+      "odometer_km": 80622,
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Highlander Hybrid Hybrid PLATINUM",
+      "condition": "used"
+    },
+    {
       "name": "2022 Volkswagen Tiguan Comfortline R-Line Black Edition | SUNROOF | HEATE",
       "vin": "3VV8B7AX0NM075188",
       "url": "https://gokiawest.aioptics.ca/used/c9d1757dd7a9.html",
@@ -327,6 +411,18 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra Preferred",
+      "condition": "used"
+    },
+    {
+      "name": "2023 Kia Forte EX | HEATED SEAT & STEERING | BLIND SPOT DETECTION",
+      "vin": "3KPF34AD8PE571473",
+      "url": "https://gokiawest.aioptics.ca/used/5c7638a0dbbc.html",
+      "price": 18998.0,
+      "price_currency": "CAD",
+      "odometer_km": 62550,
+      "year": 2023,
+      "make": "Kia",
+      "model": "Forte EX",
       "condition": "used"
     },
     {
@@ -546,6 +642,30 @@
       "condition": "used"
     },
     {
+      "name": "2024 Kia Telluride SX Limited | NAVIGATION | LEATHER | SUNROOF | HUD",
+      "vin": "5XYP5DGC6RG434583",
+      "url": "https://gokiawest.aioptics.ca/used/8986ad8d5c15.html",
+      "price": 48999.0,
+      "price_currency": "CAD",
+      "odometer_km": 42734,
+      "year": 2024,
+      "make": "Kia",
+      "model": "Telluride SX Limited",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Mitsubishi RVR SE AWC | BLIND SPOT WARNING | HEATED SEATS | KEYLE",
+      "vin": "JA4AJVAW8RU602193",
+      "url": "https://gokiawest.aioptics.ca/used/2abf05a705d7.html",
+      "price": 23999.0,
+      "price_currency": "CAD",
+      "odometer_km": 11618,
+      "year": 2024,
+      "make": "Mitsubishi",
+      "model": "RVR SE AWC",
+      "condition": "used"
+    },
+    {
       "name": "2024 Nissan Ariya EVOLVE+ | BOSE SOUND | ANDROID AUTO & APPLE CARPLA",
       "vin": "JN1BF0BA8RM431000",
       "url": "https://gokiawest.aioptics.ca/used/958bb6fc8d51.html",
@@ -579,6 +699,30 @@
       "year": 2024,
       "make": "Tesla",
       "model": "Model Y STANDARD",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Volkswagen Golf R AUTO | NAVIGATION | HEATED / COOLED SEATS | LEATHE",
+      "vin": "WVWEB7CD1RW160258",
+      "url": "https://gokiawest.aioptics.ca/used/7f04691628fd.html",
+      "price": 39999.0,
+      "price_currency": "CAD",
+      "odometer_km": 79895,
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "Golf R AUTO",
+      "condition": "used"
+    },
+    {
+      "name": "2024 Volkswagen ID.4 Pro | NAVIGATION | HEATED SEAT | PUSH START | CRUI",
+      "vin": "1V2URPE84RC010331",
+      "url": "https://gokiawest.aioptics.ca/used/5cc58768739d.html",
+      "price": 36499.0,
+      "price_currency": "CAD",
+      "odometer_km": 43648,
+      "year": 2024,
+      "make": "Volkswagen",
+      "model": "ID.4 Pro",
       "condition": "used"
     },
     {
@@ -621,7 +765,7 @@
       "name": "2025 Dodge Durango R/T | NAVIGATION | SUNROOF | LEATHER | HEAT/COOLED",
       "vin": "1C4SDJCT9SC513578",
       "url": "https://gokiawest.aioptics.ca/used/af7af13eb88a.html",
-      "price": 45798.0,
+      "price": 44499.0,
       "price_currency": "CAD",
       "odometer_km": 63901,
       "year": 2025,
@@ -633,7 +777,7 @@
       "name": "2025 Honda Civic Sedan Sport | PUSH START | HEATED SEATS | SUNROOF | HEAT",
       "vin": "2HGFE2F57SH108321",
       "url": "https://gokiawest.aioptics.ca/used/324a5f99275d.html",
-      "price": 30499.0,
+      "price": 30298.0,
       "price_currency": "CAD",
       "odometer_km": 15626,
       "year": 2025,
@@ -645,7 +789,7 @@
       "name": "2025 Honda Civic Sedan Sport | HEATED SEAT | SUNROOF | HEATED STEERING |",
       "vin": "2HGFE4F80SH012648",
       "url": "https://gokiawest.aioptics.ca/used/622dfe52a390.html",
-      "price": 32571.0,
+      "price": 32298.0,
       "price_currency": "CAD",
       "odometer_km": 14009,
       "year": 2025,
@@ -657,7 +801,7 @@
       "name": "2025 Honda Civic Sedan Sport HEV | PUSH START | HEATED SEAT & STEERING |",
       "vin": "2HGFE4F8XSH016108",
       "url": "https://gokiawest.aioptics.ca/used/eb9acedb9243.html",
-      "price": 31863.0,
+      "price": 31498.0,
       "price_currency": "CAD",
       "odometer_km": 23994,
       "year": 2025,
@@ -669,7 +813,7 @@
       "name": "2025 Hyundai Santa Fe XRT | LEATHER | SUNROOF | HEATED SEAT | WIRELESS C",
       "vin": "5NMP3DGL3SH112324",
       "url": "https://gokiawest.aioptics.ca/used/95e2a84fb9bf.html",
-      "price": 39699.0,
+      "price": 38499.0,
       "price_currency": "CAD",
       "odometer_km": 29250,
       "year": 2025,
@@ -705,7 +849,7 @@
       "name": "2025 Hyundai Tucson XRT | HEATED SEATS & STEERING | SUNROOF | LEATHER",
       "vin": "5NMJFCDE9SH470427",
       "url": "https://gokiawest.aioptics.ca/used/0961c10869b7.html",
-      "price": 31998.0,
+      "price": 30499.0,
       "price_currency": "CAD",
       "odometer_km": 42378,
       "year": 2025,
@@ -717,9 +861,9 @@
       "name": "2025 Kia Niro EX HEV | NAVIGATION | PUSH START | WIRELESS CHARGE",
       "vin": "KNDCR3LE4S5298330",
       "url": "https://gokiawest.aioptics.ca/used/a6f834ffd183.html",
-      "price": 31499.0,
+      "price": 29999.0,
       "price_currency": "CAD",
-      "odometer_km": 10428,
+      "odometer_km": 10824,
       "year": 2025,
       "make": "Kia",
       "model": "Niro EX HEV",
@@ -729,12 +873,24 @@
       "name": "2025 Kia Sorento EX | WIRELESS CHARGER | SMART POWER TAILGATE | HEA",
       "vin": "5XYRHDJF1SG370610",
       "url": "https://gokiawest.aioptics.ca/used/08c4bd8c2b40.html",
-      "price": 34516.0,
+      "price": 33582.0,
       "price_currency": "CAD",
       "odometer_km": 42198,
       "year": 2025,
       "make": "Kia",
       "model": "Sorento EX",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Kia Sportage X-Line Limited | NAVIGATION | SUNROOF | LEATHER |",
+      "vin": "KNDPXCDFXS7334606",
+      "url": "https://gokiawest.aioptics.ca/used/782f6cfc9522.html",
+      "price": 35499.0,
+      "price_currency": "CAD",
+      "odometer_km": 34123,
+      "year": 2025,
+      "make": "Kia",
+      "model": "Sportage X-Line Limited",
       "condition": "used"
     },
     {
@@ -796,6 +952,54 @@
       "make": "Kia",
       "model": "Sorento X-Line AWD",
       "condition": "new"
+    },
+    {
+      "name": "2025 Mercedes-Benz Sprinter Cargo Van High Roof 4-Cyl Diesel | PUSH START | HEATED SEAT",
+      "vin": "W1Y4KCHY9SP799208",
+      "url": "https://gokiawest.aioptics.ca/used/72fc1d6680dc.html",
+      "price": 51999.0,
+      "price_currency": "CAD",
+      "odometer_km": 69576,
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter Cargo Van High Roof 4-Cyl Diesel",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Mercedes-Benz Sprinter Cargo Van High Roof 4-Cyl Diesel",
+      "vin": "W1Y4KCHY6SP796752",
+      "url": "https://gokiawest.aioptics.ca/used/91ccb7edfd08.html",
+      "price": 54999.0,
+      "price_currency": "CAD",
+      "odometer_km": 41503,
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter Cargo Van High Roof 4-Cyl Diesel",
+      "condition": "used"
+    },
+    {
+      "name": "2025 Mercedes-Benz Sprinter Cargo Van High Roof 4-Cyl Diesel | HEATED SEAT | PUSH START",
+      "vin": "W1Y4KCHY5SP792644",
+      "url": "https://gokiawest.aioptics.ca/used/9bab9bdf0acd.html",
+      "price": 54999.0,
+      "price_currency": "CAD",
+      "odometer_km": 44206,
+      "year": 2025,
+      "make": "Mercedes-Benz",
+      "model": "Sprinter Cargo Van High Roof 4-Cyl Diesel",
+      "condition": "used"
+    },
+    {
+      "name": "2025 RAM ProMaster Cargo Van Tradesman | PUSH START | ELECTRIC E BRAKE | CRUISE",
+      "vin": "3C6MRVJG3SE543862",
+      "url": "https://gokiawest.aioptics.ca/used/aafd061a97f7.html",
+      "price": 47393.0,
+      "price_currency": "CAD",
+      "odometer_km": 52021,
+      "year": 2025,
+      "make": "RAM",
+      "model": "ProMaster Cargo Van Tradesman",
+      "condition": "used"
     },
     {
       "name": "2026 Kia EV9 GT-Line Package | NAV | LEATHER | SUNROOF | V2L",
