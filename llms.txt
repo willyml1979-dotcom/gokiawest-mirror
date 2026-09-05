@@ -1,0 +1,11 @@
+# Go Kia West
+
+> Go Kia West is a Kia dealership in Coquitlam. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
+
+## Inventory
+- [Used vehicles](https://gokiawest.aioptics.ca/used/): 228 vehicles, updated regularly
+- [Inventory feed](https://gokiawest.aioptics.ca/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
+
+## Resources
+- [Dealership information](https://gokiawest.aioptics.ca/): business identity, contact and hours
+- [Financing, sales and service guides](https://gokiawest.aioptics.ca/pages/): dealer-specific buyer guides
