@@ -1,6 +1,6 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-09-17T03:03:58",
+  "generated_at": "2026-09-17T05:39:16",
   "vehicle_count": 417,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -309,7 +309,7 @@
       "condition": "used"
     },
     {
-      "name": "2019 Cadillac Escalade 4WD 4dr Premium Luxury",
+      "name": "2019 Cadillac Escalade Premium Luxury | DRIVERS ASSIST PACKAGE | SUNROOF",
       "vin": "1GYS4CKJ7KR179120",
       "url": "https://gokiawest.aioptics.ca/used/696fd28e59d6.html",
       "price": 44998.0,
@@ -317,7 +317,7 @@
       "odometer_km": 112501,
       "year": 2019,
       "make": "Cadillac",
-      "model": "Escalade 4WD 4dr Premium Luxury",
+      "model": "Escalade Premium Luxury",
       "condition": "used"
     },
     {
