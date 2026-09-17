@@ -1,6 +1,6 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-09-16T23:34:53",
+  "generated_at": "2026-09-17T03:03:58",
   "vehicle_count": 417,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -2653,6 +2653,18 @@
     },
     {
       "name": "2026 Kia Niro EV Wind+ | NAV | HEATED SEATS | HEATED STEERING WHEEL",
+      "vin": "KNDCR3L16T5149710",
+      "url": "https://gokiawest.aioptics.ca/new/fdd6349e3972.html",
+      "price": 40095.0,
+      "price_currency": "CAD",
+      "odometer_km": 15,
+      "year": 2026,
+      "make": "Kia",
+      "model": "Niro EV Wind+",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Kia Niro EV Wind+ | NAV | HEATED SEATS | HEATED STEERING WHEEL",
       "vin": "KNDCR3L17T5150848",
       "url": "https://gokiawest.aioptics.ca/new/3dfe077f07e0.html",
       "price": 40095.0,
@@ -2805,6 +2817,18 @@
       "year": 2026,
       "make": "Kia",
       "model": "Niro EV Wind+",
+      "condition": "new"
+    },
+    {
+      "name": "2026 Kia Niro EV Wind | NAV | APPLE CARPLAY & ANDROID AUTO | BACKUP",
+      "vin": "KNDCP3L12T5159298",
+      "url": "https://gokiawest.aioptics.ca/new/3defe2f77e47.html",
+      "price": 37095.0,
+      "price_currency": "CAD",
+      "odometer_km": 25,
+      "year": 2026,
+      "make": "Kia",
+      "model": "Niro EV Wind",
       "condition": "new"
     },
     {
@@ -3372,18 +3396,6 @@
       "condition": "new"
     },
     {
-      "name": "2026 Kia Seltos X-Line| NAV | SUNROOF | LEATHER SEATING | FORWARD",
-      "vin": "KNDETCA79T7877107",
-      "url": "https://gokiawest.aioptics.ca/new/eb4364c59531.html",
-      "price": 41178.0,
-      "price_currency": "CAD",
-      "odometer_km": 55,
-      "year": 2026,
-      "make": "Kia",
-      "model": "Seltos X-Line",
-      "condition": "new"
-    },
-    {
       "name": "2026 Kia Seltos LX AWD | ANDROID AUTO & APPLE CARPLAY |  BLIND SPO",
       "vin": "KNDEPCAAXT7940537",
       "url": "https://gokiawest.aioptics.ca/new/ee8979279162.html",
@@ -3657,18 +3669,6 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sorento Plug-In Hybrid LX PHEV",
-      "condition": "new"
-    },
-    {
-      "name": "2026 Kia Sportage Hybrid SX HEV | NAVIGATIO | SUNROOF | LEATHER SEATING | H",
-      "vin": "KNDPXDDG9T7393503",
-      "url": "https://gokiawest.aioptics.ca/new/00b3000b68c6.html",
-      "price": 49998.0,
-      "price_currency": "CAD",
-      "odometer_km": 50,
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage Hybrid SX HEV",
       "condition": "new"
     },
     {
