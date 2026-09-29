@@ -1,7 +1,8 @@
-# AiOptics Mirror host — open to AI assistants and search, Google excluded
+# AiOptics Mirror host — limited Googlebot pilot at /kai-test/
 
-# Google stays out: doesn't feed AI search, avoids duplicate content
+# Limited Gemini access pilot; all other Googlebot paths remain excluded
 User-agent: Googlebot
+Allow: /kai-test/
 Disallow: /
 
 # Everyone else (all AI assistants, Bing, and other agents) is welcome
