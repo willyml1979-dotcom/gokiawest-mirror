@@ -1,6 +1,6 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-10-22T08:54:36",
+  "generated_at": "2026-10-22T19:22:35",
   "vehicle_count": 670,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -86,7 +86,7 @@
       "province": "BC"
     },
     {
-      "name": "2014 Honda Civic Sedan EX | SUNROOF | PUSH START | HEATED SEAT | ECON MOD",
+      "name": "2014 Honda Civic Sedan EX | SUNROOF | PUSH START | HEATED SEAT | ECON MODE | LEATHER WHEEL",
       "vin": "2HGFB2F50EH021454",
       "stock": "SH79628",
       "color": "Grey",
@@ -94,8 +94,8 @@
       "url": "https://gokiawest.aioptics.ca/used/a53bb973a11f.html",
       "source_url": "https://www.kiawest.com/vehicles/2014/honda/civic-sedan/coquitlam/bc/71207245/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2014/honda/civic-sedan/coquitlam/bc/71207245/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T03:15:35",
-      "price": 11298.0,
+      "last_verified": "2026-10-22T19:21:09",
+      "price": 10998.0,
       "price_currency": "CAD",
       "odometer_km": 157786,
       "year": 2014,
@@ -182,7 +182,7 @@
       "province": "BC"
     },
     {
-      "name": "2015 Volkswagen Tiguan Comfortline | SUNROOF | REVERSE CAMERA | HEATED SE",
+      "name": "2015 Volkswagen Tiguan Comfortline | SUNROOF | REVERSE CAMERA | HEATED SEAT | KEYLESS ENTRY | PUSH START",
       "vin": "WVGJV7AXXFW089264",
       "stock": "CR66863",
       "color": "Red",
@@ -190,8 +190,8 @@
       "url": "https://gokiawest.aioptics.ca/used/9293391c44bc.html",
       "source_url": "https://www.kiawest.com/vehicles/2015/volkswagen/tiguan/coquitlam/bc/71194466/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2015/volkswagen/tiguan/coquitlam/bc/71194466/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T09:18:25",
-      "price": 15798.0,
+      "last_verified": "2026-10-22T19:21:19",
+      "price": 14998.0,
       "price_currency": "CAD",
       "odometer_km": 85556,
       "year": 2015,
@@ -262,7 +262,7 @@
       "province": "BC"
     },
     {
-      "name": "2017 Kia Forte Sedan EX Luxury | SUNROOF | LEATHER | HEATED SEATS & STE",
+      "name": "2017 Kia Forte Sedan EX Luxury | SUNROOF | LEATHER | HEATED SEATS & STEERING | DR SEAT MEMORY | BLIND SPOT DETECTION",
       "vin": "3KPFL4A87HE033643",
       "stock": "NE68520",
       "color": "Black",
@@ -270,8 +270,8 @@
       "url": "https://gokiawest.aioptics.ca/used/02ffbc678691.html",
       "source_url": "https://www.kiawest.com/vehicles/2017/kia/forte-sedan/coquitlam/bc/71508456/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2017/kia/forte-sedan/coquitlam/bc/71508456/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T09:18:49",
-      "price": 16998.0,
+      "last_verified": "2026-10-22T19:21:40",
+      "price": 16798.0,
       "price_currency": "CAD",
       "odometer_km": 33702,
       "year": 2017,
@@ -576,7 +576,7 @@
       "province": "BC"
     },
     {
-      "name": "2020 Honda Civic Type R TYPE R | NAVIGATION | BREMBE BRAKES | ADAPTIVE DAM",
+      "name": "2020 Honda Civic Type R TYPE R | NAVIGATION | BREMBE BRAKES | ADAPTIVE DAMPER | HONDA LANE WATCH | WIRELESS CHARGE",
       "vin": "SHHFK8G39LU300269",
       "stock": "PW1442",
       "color": "Blue",
@@ -584,8 +584,8 @@
       "url": "https://gokiawest.aioptics.ca/used/264ba87ab5b9.html",
       "source_url": "https://www.kiawest.com/vehicles/2020/honda/civic-type-r/coquitlam/bc/71508455/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2020/honda/civic-type-r/coquitlam/bc/71508455/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T09:18:58",
-      "price": 46999.0,
+      "last_verified": "2026-10-22T19:21:51",
+      "price": 46898.0,
       "price_currency": "CAD",
       "odometer_km": 77150,
       "year": 2020,
@@ -1290,7 +1290,7 @@
       "province": "BC"
     },
     {
-      "name": "2023 BMW iX xDrive50 | PREMIUM/ESSENTIAL PKG | SPORT PKG | NAV",
+      "name": "2023 BMW iX xDrive50 | PREMIUM/ESSENTIAL PKG | SPORT PKG | NAVIGATION | HEATED SEATS & STEERING | PWR SEATS",
       "vin": "WB523CF00PCM64256",
       "stock": "PW1366A",
       "color": "Black",
@@ -1298,8 +1298,8 @@
       "url": "https://gokiawest.aioptics.ca/used/61429959e538.html",
       "source_url": "https://www.kiawest.com/vehicles/2023/bmw/ix/coquitlam/bc/71020182/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/bmw/ix/coquitlam/bc/71020182/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T03:14:12",
-      "price": 50498.0,
+      "last_verified": "2026-10-22T19:20:18",
+      "price": 49998.0,
       "price_currency": "CAD",
       "odometer_km": 95513,
       "year": 2023,
@@ -1310,7 +1310,7 @@
       "province": "BC"
     },
     {
-      "name": "2023 Chevrolet Tahoe Premier | PREMIUM PKG | HUD | HEATED / COOLED SEAT",
+      "name": "2023 Chevrolet Tahoe Premier | PREMIUM PKG | HUD | HEATED / COOLED SEATS | HEATED STEERING | POWER TAILGATE",
       "vin": "1GNSKSKD2PR248696",
       "stock": "E963923",
       "color": "Black",
@@ -1318,8 +1318,8 @@
       "url": "https://gokiawest.aioptics.ca/used/0726f0669eb3.html",
       "source_url": "https://www.kiawest.com/vehicles/2023/chevrolet/tahoe/coquitlam/bc/71474570/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/chevrolet/tahoe/coquitlam/bc/71474570/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T09:18:32",
-      "price": 64998.0,
+      "last_verified": "2026-10-22T19:21:30",
+      "price": 63799.0,
       "price_currency": "CAD",
       "odometer_km": 114744,
       "year": 2023,
@@ -1330,7 +1330,7 @@
       "province": "BC"
     },
     {
-      "name": "2023 Honda CR-V LX | PUSH START | BACK UP CAMERA | HEATED SEAT | D",
+      "name": "2023 Honda CR-V LX | PUSH START | BACK UP CAMERA | HEATED SEAT | DRIVE MODE SELECT | AUTO SHUT OFF",
       "vin": "2HKRS4H26PH111504",
       "stock": "PC1314",
       "color": "White",
@@ -1338,8 +1338,8 @@
       "url": "https://gokiawest.aioptics.ca/used/fe6e08e8315f.html",
       "source_url": "https://www.kiawest.com/vehicles/2023/honda/cr-v/coquitlam/bc/71122248/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/honda/cr-v/coquitlam/bc/71122248/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T03:14:20",
-      "price": 30998.0,
+      "last_verified": "2026-10-22T19:20:27",
+      "price": 30798.0,
       "price_currency": "CAD",
       "odometer_km": 67772,
       "year": 2023,
@@ -1730,7 +1730,7 @@
       "province": "BC"
     },
     {
-      "name": "2023 Kia Sportage EX Premium | NAVIGATION | LEATHER | SUNROOF | HEAT",
+      "name": "2023 Kia Sportage EX Premium | NAVIGATION | LEATHER | SUNROOF | HEATED / COOLED SEAT | HEATED STEERING",
       "vin": "KNDPVCAF2P7127015",
       "stock": "RH65464",
       "color": "Blue",
@@ -1738,7 +1738,7 @@
       "url": "https://gokiawest.aioptics.ca/used/9c965451804c.html",
       "source_url": "https://www.kiawest.com/vehicles/2023/kia/sportage/coquitlam/bc/70750564/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2023/kia/sportage/coquitlam/bc/70750564/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T03:14:38",
+      "last_verified": "2026-10-22T19:20:37",
       "price": 21598.0,
       "price_currency": "CAD",
       "odometer_km": 127000,
@@ -1990,7 +1990,7 @@
       "province": "BC"
     },
     {
-      "name": "2024 Genesis GV80 2.5T Advanced | NAVIGATION | WHITE LEATHER | SUNRO",
+      "name": "2024 Genesis GV80 2.5T Advanced | NAVIGATION | WHITE LEATHER | SUNROOF | PUSH START | POWER TAILGATE | HEATED / COOLED",
       "vin": "KMUHBDSB4RU148934",
       "stock": "PL0148",
       "color": "Silver",
@@ -1998,8 +1998,8 @@
       "url": "https://gokiawest.aioptics.ca/used/7e37fcc6144c.html",
       "source_url": "https://www.kiawest.com/vehicles/2024/genesis/gv80/coquitlam/bc/71062430/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2024/genesis/gv80/coquitlam/bc/71062430/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T03:14:59",
-      "price": 45198.0,
+      "last_verified": "2026-10-22T19:20:45",
+      "price": 44998.0,
       "price_currency": "CAD",
       "odometer_km": 64500,
       "year": 2024,
@@ -2010,7 +2010,7 @@
       "province": "BC"
     },
     {
-      "name": "2024 Honda Accord Sedan EX | SUNROOF | PUSH START | HEATED SEAT | ECON MOD",
+      "name": "2024 Honda Accord Sedan EX | SUNROOF | PUSH START | HEATED SEAT | ECON MODE | AUTO SHUT OFF",
       "vin": "1HGCY1F31RA800294",
       "stock": "PW1344",
       "color": "White",
@@ -2018,7 +2018,7 @@
       "url": "https://gokiawest.aioptics.ca/used/c70687bc49fd.html",
       "source_url": "https://www.kiawest.com/vehicles/2024/honda/accord-sedan/coquitlam/bc/70511866/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2024/honda/accord-sedan/coquitlam/bc/70511866/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T03:15:08",
+      "last_verified": "2026-10-22T19:20:52",
       "price": 31498.0,
       "price_currency": "CAD",
       "odometer_km": 20457,
@@ -2189,7 +2189,7 @@
       "province": "BC"
     },
     {
-      "name": "2024 Kia K5 EX | LEATHER | WIRELESS CHARGE | HEATED SEATS & ST",
+      "name": "2024 Kia K5 EX | LEATHER | WIRELESS CHARGE | HEATED SEATS & STEERING | PUSH START | SMART CRUISE CONTROL",
       "vin": "5XXG34J29RG231309",
       "stock": "SG65839",
       "color": "Blue",
@@ -2197,7 +2197,7 @@
       "url": "https://gokiawest.aioptics.ca/used/99d0352fd70e.html",
       "source_url": "https://www.kiawest.com/vehicles/2024/kia/k5/coquitlam/bc/70632492/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2024/kia/k5/coquitlam/bc/70632492/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T03:15:26",
+      "last_verified": "2026-10-22T19:21:00",
       "price": 23498.0,
       "price_currency": "CAD",
       "odometer_km": 49657,
@@ -2847,7 +2847,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Hyundai Elantra Essential | HEATED SEAT | AUTO SHUT OFF | DRIVE MO",
+      "name": "2025 Hyundai Elantra Essential | HEATED SEAT | AUTO SHUT OFF | DRIVE MODE SELECT | ANDROID AUTO & APPLE CARPLAY | KEYLESS",
       "vin": "KMHLM4DG0SU093299",
       "stock": "PW1247A",
       "color": "Grey",
@@ -2855,8 +2855,8 @@
       "url": "https://gokiawest.aioptics.ca/used/2d7924c2c017.html",
       "source_url": "https://www.kiawest.com/vehicles/2025/hyundai/elantra/coquitlam/bc/71508459/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2025/hyundai/elantra/coquitlam/bc/71508459/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T09:19:06",
-      "price": 20998.0,
+      "last_verified": "2026-10-22T19:21:59",
+      "price": 20798.0,
       "price_currency": "CAD",
       "odometer_km": 23368,
       "year": 2025,
@@ -3025,7 +3025,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Kia K4 EX | WIRELESS CHARGER | HEATED SEATS & STEERING |",
+      "name": "2025 Kia K4 EX | WIRELESS CHARGER | HEATED SEATS & STEERING | BLIND SPOT COLISSION AVOIDANCE | PUSH START | DRIV",
       "vin": "3KPFU4DE8SE034242",
       "stock": "PL0181",
       "color": "Black",
@@ -3033,8 +3033,8 @@
       "url": "https://gokiawest.aioptics.ca/used/5f1a8301ddbe.html",
       "source_url": "https://www.kiawest.com/vehicles/2025/kia/k4/coquitlam/bc/71508457/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2025/kia/k4/coquitlam/bc/71508457/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T09:19:15",
-      "price": 24998.0,
+      "last_verified": "2026-10-22T19:22:09",
+      "price": 24798.0,
       "price_currency": "CAD",
       "odometer_km": 15711,
       "year": 2025,
@@ -3065,7 +3065,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Kia Seltos LX | ANDROID AUTO & APPLE CARPLAY | HEATED SEATS |",
+      "name": "2025 Kia Seltos LX | ANDROID AUTO & APPLE CARPLAY | HEATED SEATS | BLIND SPOT COLLISION AVOIDANCE  | REVERSE CAMERA ",
       "vin": "KNDEP2AA7S7754463",
       "stock": "PL0147",
       "color": "Blue",
@@ -3073,8 +3073,8 @@
       "url": "https://gokiawest.aioptics.ca/used/7575756d7f82.html",
       "source_url": "https://www.kiawest.com/vehicles/2025/kia/seltos/coquitlam/bc/71062453/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2025/kia/seltos/coquitlam/bc/71062453/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T09:19:34",
-      "price": 24498.0,
+      "last_verified": "2026-10-22T19:22:27",
+      "price": 24298.0,
       "price_currency": "CAD",
       "odometer_km": 30195,
       "year": 2025,
@@ -3402,7 +3402,7 @@
       "province": "BC"
     },
     {
-      "name": "2025 Kia Sportage EX | NAVIGATION | SUNROOF | LEATHER | HEATED SEATS",
+      "name": "2025 Kia Sportage EX | NAVIGATION | SUNROOF | LEATHER | HEATED SEATS & STEERING | WIRELESS CHARGE",
       "vin": "KNDPVCDF8S7406375",
       "stock": "SH77896",
       "color": "Black",
@@ -3410,8 +3410,8 @@
       "url": "https://gokiawest.aioptics.ca/used/ed3ff2245cee.html",
       "source_url": "https://www.kiawest.com/vehicles/2025/kia/sportage/coquitlam/bc/71508454/?sale_class=used",
       "dealer_url": "https://www.kiawest.com/vehicles/2025/kia/sportage/coquitlam/bc/71508454/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T09:19:25",
-      "price": 33998.0,
+      "last_verified": "2026-10-22T19:22:18",
+      "price": 33798.0,
       "price_currency": "CAD",
       "odometer_km": 41220,
       "year": 2025,
