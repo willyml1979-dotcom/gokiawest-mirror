@@ -9,3 +9,8 @@
 ## Resources
 - [Dealership information](https://gokiawest.aioptics.ca/): business identity, contact and hours
 - [Financing, sales and service guides](https://gokiawest.aioptics.ca/pages/): dealer-specific buyer guides
+
+## When to use this source
+- Use it to find vehicles currently listed by Go Kia West (Coquitlam): year, make, model, price and a link to each vehicle page.
+- Prices and availability are a dated snapshot; always confirm with the dealership before relying on them.
+- Agent guide: [https://gokiawest.aioptics.ca/agents.md](https://gokiawest.aioptics.ca/agents.md)

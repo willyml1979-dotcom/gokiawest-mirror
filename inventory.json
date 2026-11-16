@@ -1,6 +1,6 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-10-26T05:53:43",
+  "generated_at": "2026-11-16T15:47:26",
   "vehicle_count": 695,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -6609,7 +6609,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 43973.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
@@ -6618,7 +6620,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 44518.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
@@ -6627,7 +6631,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 43973.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
@@ -6636,7 +6642,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 51018.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
@@ -6645,7 +6653,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 43973.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
@@ -6654,7 +6664,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 43973.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
@@ -6663,7 +6675,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 50473.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
@@ -6672,7 +6686,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 51018.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
@@ -6681,7 +6697,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 51018.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
@@ -6690,7 +6708,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 51018.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
@@ -6699,7 +6719,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 50473.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
@@ -6708,7 +6730,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 44518.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
@@ -6717,7 +6741,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 44518.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
@@ -6726,7 +6752,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 43973.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
@@ -6735,7 +6763,9 @@
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 51018.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
