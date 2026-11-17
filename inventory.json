@@ -1,10 +1,30 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-11-16T16:05:49",
+  "generated_at": "2026-11-17T03:25:36",
   "vehicle_count": 695,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2001 Porsche Boxster Boxster Base | LEATHER / SUEDE SEATS | CONVERTIBLE | HEATED SEATS | MANUAL | POWER WINDOWS | CRUISE ",
+      "vin": "2BGP031061U603554",
+      "url": "https://gokiawest.aioptics.ca/used/1ca264a0ed7a.html",
+      "year": 2001,
+      "make": "Porsche",
+      "model": "Boxster Boxster Base",
+      "condition": "used",
+      "price": 14499.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2011 Kia Optima Sedan LX | LOCAL BC VEHICLE | AC | BLUETOOTH | KEYLESS ENTRY | FOG LIGHTS | TRIP COMPUTER",
+      "vin": "KNAGM4A77B5114988",
+      "url": "https://gokiawest.aioptics.ca/used/7957375fc74c.html",
+      "year": 2011,
+      "make": "Kia",
+      "model": "Optima Sedan LX",
+      "condition": "used"
+    },
     {
       "name": "2012 Honda Civic Sedan EX | SUNROOF | LEATHER WHEEL | BLUETOOTH | ECON MO",
       "vin": "2HGFB2F55CH115892",
@@ -17,59 +37,35 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Mitsubishi RVR SE | CRUISE CONTROL | BLUETOOTH | AC | ESC | AM/FM",
+      "name": "2013 Mitsubishi RVR SE | CLEAN LOCAL BC VEHICLE | CRUISE CONTROL | BLUETOOTH | AC | ESC | AM/FM/CD",
       "vin": "4A4AH3AU1DE603900",
       "url": "https://gokiawest.aioptics.ca/used/4493b5ed57c6.html",
       "year": 2013,
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 10298.0,
+      "price": 8499.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Honda Civic Sedan EX | SUNROOF | PUSH START | HEATED SEAT | ECON MODE | LEATHER WHEEL",
-      "vin": "2HGFB2F50EH021454",
-      "url": "https://gokiawest.aioptics.ca/used/a53bb973a11f.html",
+      "name": "2014 Chevrolet Malibu Sedan LT | CLEAN LOCAL BC VEHICLE | SUNROOF | LEATHER/CLOTH SEAT | HOMELINK | KEYLESS ENTRY | PWR DR SEAT",
+      "vin": "1G11C5SL2EF246920",
+      "url": "https://gokiawest.aioptics.ca/used/6ad8c64b90e6.html",
       "year": 2014,
-      "make": "Honda",
-      "model": "Civic",
+      "make": "Chevrolet",
+      "model": "Malibu",
       "condition": "used",
       "price": 10998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2014 Jeep Cherokee Limited | CLEAN LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEATS | BLIND SP",
-      "vin": "1C4PJMDS5EW164492",
-      "url": "https://gokiawest.aioptics.ca/used/b4589d7fb172.html",
-      "year": 2014,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 15499.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2014 Mercedes-Benz B-Class B 250 Sport | NAVIGATION | LEATHER | SUNROOF | HEA",
-      "vin": "WDDMH4EB5EJ288746",
-      "url": "https://gokiawest.aioptics.ca/used/fd3c843cfd7e.html",
-      "year": 2014,
-      "make": "Mercedes-Benz",
-      "model": "B-Class B 250 Sport",
-      "condition": "used",
-      "price": 10998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2015 Mazda Mazda5 GT GRAND TOURING | LEATHER | SUNROOF | HEATED SEATS | PARK SENSORS | CRUISE CONTROL | BLUETOOTH",
-      "vin": "JM1CW2DL3F0187576",
-      "url": "https://gokiawest.aioptics.ca/used/432c24f7e39a.html",
+      "name": "2015 Kia Forte Sedan SX",
+      "vin": "KNAFZ4A83F5385865",
+      "url": "https://gokiawest.aioptics.ca/used/a76465cbbc5e.html",
       "year": 2015,
-      "make": "Mazda",
-      "model": "Mazda5",
-      "condition": "used",
-      "price": 14798.0,
-      "price_currency": "CAD"
+      "make": "Kia",
+      "model": "Forte",
+      "condition": "used"
     },
     {
       "name": "2015 Mercedes-Benz CLA Sedan NAVIGATION | LEATHER | SUNROOF | HEATED SEATS | PW",
@@ -83,14 +79,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Nissan Rogue SV | LOCAL BC VEHICLE | SUNROOF | PWR DR SEAT | PUSH START | REVERS CAMERA | FOG LIGHTS",
-      "vin": "5N1AT2MT3FC918419",
-      "url": "https://gokiawest.aioptics.ca/used/a76de25d72ff.html",
+      "name": "2015 Volkswagen Golf Trendline | LOCAL BC VEHICLE | HEATED SEATS | BLUETOOTH | CRUISE CONTROL | LEATHER WHEEL | MANUAL",
+      "vin": "3VW117AU8FM065886",
+      "url": "https://gokiawest.aioptics.ca/used/8333261160a7.html",
       "year": 2015,
-      "make": "Nissan",
-      "model": "Rogue",
+      "make": "Volkswagen",
+      "model": "Golf",
       "condition": "used",
-      "price": 13999.0,
+      "price": 10998.0,
       "price_currency": "CAD"
     },
     {
@@ -105,6 +101,37 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2016 BMW 3 Series Gran Turismo 328i xDrive | CLEAN VEHICLE | NAVIGATION | PREM PKG | HEATED SEATS & STEERING | POWER TAILGATE | PUS",
+      "vin": "WBA8Z5C50GGS38040",
+      "url": "https://gokiawest.aioptics.ca/used/2e40e64357e3.html",
+      "year": 2016,
+      "make": "BMW",
+      "model": "3 Series",
+      "condition": "used",
+      "price": 14998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2016 Chevrolet Trax LT",
+      "vin": "3GNCJPSB8GL224784",
+      "url": "https://gokiawest.aioptics.ca/used/3105f523ad46.html",
+      "year": 2016,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "condition": "used"
+    },
+    {
+      "name": "2016 Honda Accord Sedan Touring | NAVIGATION | SUNROOF | LEATHER | HOMELINK | HEATED SEATS | PUSH START",
+      "vin": "1HGCR3F95GA800521",
+      "url": "https://gokiawest.aioptics.ca/used/050cd628c109.html",
+      "year": 2016,
+      "make": "Honda",
+      "model": "Accord",
+      "condition": "used",
+      "price": 18979.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2016 Kia Soul SX | 2 TONE | LEATHER | HEATED SEATS & STEERING |",
       "vin": "KNDJX3A50G7263215",
       "url": "https://gokiawest.aioptics.ca/used/2f9a07f9fb30.html",
@@ -116,25 +143,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2016 Nissan Murano Platinum | LOCAL BC VEHICLE | NAVIGATION | LEATHER | SUNROOF | HEATED / COOLED SEATS | HEATED STEERI",
-      "vin": "5N1AZ2MH2GN114841",
-      "url": "https://gokiawest.aioptics.ca/used/a461dd4fe6d8.html",
+      "name": "2016 Nissan Rogue SL | LOCAL BC VEHICLE | SUNROOF | LEATHER | POWER TAILGATE | BLIND SPOT WARNING | PUSH START",
+      "vin": "5N1AT2MV0GC837283",
+      "url": "https://gokiawest.aioptics.ca/used/29d70c3683ae.html",
       "year": 2016,
       "make": "Nissan",
-      "model": "Murano",
+      "model": "Rogue",
       "condition": "used",
-      "price": 14999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Ford Fusion SE | NO REPORTED ACCIDENTS | NAVIGATION | SUNROOF | HEATED SEAT | REVERSE CAMERA | REVERSE SENSORS |",
-      "vin": "3FA6P0T9XHR152613",
-      "url": "https://gokiawest.aioptics.ca/used/39a9a08e84e7.html",
-      "year": 2017,
-      "make": "Ford",
-      "model": "Fusion",
-      "condition": "used",
-      "price": 11998.0,
+      "price": 12998.0,
       "price_currency": "CAD"
     },
     {
@@ -149,6 +165,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2017 Hyundai Elantra L | LOCAL BC VEHICLE | HEATED SEAT | KEYLESS ENTRY | TRIP COMPUTER | OUTSIDE TEMP GAUGE | POWER WIND",
+      "vin": "5NPD74LF3HH159744",
+      "url": "https://gokiawest.aioptics.ca/used/8d28a45060c2.html",
+      "year": 2017,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "condition": "used",
+      "price": 11998.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2017 Kia Forte Sedan EX Luxury | SUNROOF | LEATHER | HEATED SEATS & STEERING | DR SEAT MEMORY | BLIND SPOT DETECTION",
       "vin": "3KPFL4A87HE033643",
       "url": "https://gokiawest.aioptics.ca/used/02ffbc678691.html",
@@ -160,58 +187,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Kia Sedona LX | REVERSE CAMERA | HEATED SEAST | REVERSE SENSORS | PWR DR SEAT | LEATHER WHEEL",
-      "vin": "KNDMB5C18H6277355",
-      "url": "https://gokiawest.aioptics.ca/used/04d34b1e1325.html",
-      "year": 2017,
-      "make": "Kia",
-      "model": "Sedona LX",
-      "condition": "used",
-      "price": 16998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Kia Sedona LX+ | LOCAL BC VEHICLE | PUSH START | PWR SLIDING DOORS | HEATED SEATS | PWR SEAT | LEATHER WHEEL",
-      "vin": "KNDMB5C11H6311653",
-      "url": "https://gokiawest.aioptics.ca/used/7eba76408471.html",
-      "year": 2017,
-      "make": "Kia",
-      "model": "Sedona LX+",
-      "condition": "used",
-      "price": 12999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Kia Forte Hatchback LX+ | LOCAL BC VEHICLE | HEATED SEATS | ANDROID AUTO & APPLE CARPLAY | REVERSE CAMERA | CRUISE CONTR",
-      "vin": "KNAFK5A85J5771920",
-      "url": "https://gokiawest.aioptics.ca/used/59c906ca236f.html",
+      "name": "2018 Ford Escape SEL | CLEAN LOCAL BC VEHICLE | NAVIGATION | SUNROOF | REVERSE CAMERA | KEYLESS ENTRY PAD | POWER TAI",
+      "vin": "1FMCU9H94JUC23656",
+      "url": "https://gokiawest.aioptics.ca/used/565148569610.html",
       "year": 2018,
-      "make": "Kia",
-      "model": "Forte",
+      "make": "Ford",
+      "model": "Escape",
       "condition": "used",
-      "price": 12999.0,
+      "price": 12998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Kia Stinger GT | LEATHER | HEATED SEATS & STEERING | ANDROID A",
-      "vin": "KNAE35LC0J6025637",
-      "url": "https://gokiawest.aioptics.ca/used/6e3511625297.html",
+      "name": "2018 Hyundai Elantra GL | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CARPLAY | REVERSE CAMERA | BLIND SPOT MONITOR | ",
+      "vin": "KMHD84LF9JU636696",
+      "url": "https://gokiawest.aioptics.ca/used/d313bf7baf0b.html",
       "year": 2018,
-      "make": "Kia",
-      "model": "Stinger",
+      "make": "Hyundai",
+      "model": "Elantra",
       "condition": "used",
-      "price": 17298.0,
+      "price": 10998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 RAM 1500 Sport | ANDROID AUTO & APPLE CARPLAY | SUNROOF | L",
+      "name": "2018 RAM 1500 Sport | LOCAL BC VEHICLE | ANDROID AUTO & APPLE CARPLAY | SUNROOF | LEATHER | HEATED / COOLED SEAT |",
       "vin": "1C6RR7MM4JS315237",
       "url": "https://gokiawest.aioptics.ca/used/9f681d28168e.html",
       "year": 2018,
       "make": "RAM",
       "model": "1500",
       "condition": "used",
-      "price": 27998.0,
+      "price": 26483.0,
       "price_currency": "CAD"
     },
     {
@@ -226,14 +231,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Audi Q7 Technik | NAVIGATION | SUNROOF | LEATHER | HEATED",
+      "name": "2019 Audi Q7 Technik | LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEATS | PUSH START",
       "vin": "WA1VAAF78KD006194",
       "url": "https://gokiawest.aioptics.ca/used/ad4d6e52453e.html",
       "year": 2019,
       "make": "Audi",
       "model": "Q7",
       "condition": "used",
-      "price": 36999.0,
+      "price": 34999.0,
       "price_currency": "CAD"
     },
     {
@@ -246,6 +251,24 @@
       "condition": "used",
       "price": 44298.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Hyundai IONIQ Electric Preferred | CLEAN LOCAL BC VEHICLE | EV | NAVIGATION | PUSH START | HEATED SEATS & STEERING | BLIND",
+      "vin": "KMHC85LH7KU052186",
+      "url": "https://gokiawest.aioptics.ca/used/f2f79d906051.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "IONIQ Electric",
+      "condition": "used"
+    },
+    {
+      "name": "2019 Hyundai Santa Fe Ultimate | CLEAN LOCAL BC VEHICLE | NAVIGATION | HEATED / COOLED SEATS | SUNROOF | LEATHER | HUD",
+      "vin": "5NMS5CAA0KH097013",
+      "url": "https://gokiawest.aioptics.ca/used/18bd1e4b62ac.html",
+      "year": 2019,
+      "make": "Hyundai",
+      "model": "Santa Fe",
+      "condition": "used"
     },
     {
       "name": "2019 Kia Niro Hybrid EX | HYBRID | LOCAL BC CAR | WIRELESS CHARGE | REAR PARKING SENSORS | HEATED SEATS & STEERING",
@@ -268,6 +291,15 @@
       "condition": "used",
       "price": 12698.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Kia Soul LX",
+      "vin": "KNDJN2A27K7695685",
+      "url": "https://gokiawest.aioptics.ca/used/d3dff4a721e6.html",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Soul",
+      "condition": "used"
     },
     {
       "name": "2019 Kia Sportage EX Premium | LOCAL BC VEHICLE | SUNROOF | LEATHER | ANDROID AUTO & APPLEA CARPLAY | SMART POWER TAIG",
@@ -303,17 +335,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Nissan Sentra SV | REARVIEW CAMERA | PUSH START | ANDROID AUTO & APPLE CARPLAY | TEXT MESSAGE ASSIST | KEYLESS ENT",
-      "vin": "3N1AB7AP8KY363743",
-      "url": "https://gokiawest.aioptics.ca/used/d18c272162c8.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 12299.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2020 Dodge Grand Caravan Passenger Van SXT | LOCAL BC VEHICLE | KEYLESS ENTRY | BACK UP CAMERA | DRL | TRIP COMPUTER | BLUETOOTH",
       "vin": "2C4RDGBG4LR170788",
       "url": "https://gokiawest.aioptics.ca/used/9ce518155bde.html",
@@ -336,36 +357,43 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Kia Forte Sedan EX | WIRELESS CHARGE | HEATED SEATS & STEERING | B",
-      "vin": "3KPF54AD0LE230170",
-      "url": "https://gokiawest.aioptics.ca/used/3d81c5344848.html",
+      "name": "2020 Hyundai Palisade Ultimate",
+      "vin": "KM8R5DHE2LU123839",
+      "url": "https://gokiawest.aioptics.ca/used/95ff5049f0ac.html",
+      "year": 2020,
+      "make": "Hyundai",
+      "model": "Palisade",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Kia Forte Hatchback EX | LOCAL BC VEHICLE | HEATED SEATS & STEERING | WIRELESS CHARGE | BLIND SPOT DETECTION | ANDROID A",
+      "vin": "KNAF55AC2L5078849",
+      "url": "https://gokiawest.aioptics.ca/used/12277f647270.html",
       "year": 2020,
       "make": "Kia",
       "model": "Forte",
+      "condition": "used"
+    },
+    {
+      "name": "2020 Kia Niro EV SX Touring EV | LOCAL BC VEHICLE | NAVIGATION | LEATHER | SUNROOF | HEAT PUMP | WIRELESS CHARGE",
+      "vin": "KNDCE3LG9L5060309",
+      "url": "https://gokiawest.aioptics.ca/used/a6a8c54531ee.html",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Niro EV",
       "condition": "used",
-      "price": 16298.0,
+      "price": 23998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Kia Sorento LX+ |  HEATED SEAT & STEERING | BLIND SPOT DETECTI",
+      "name": "2020 Kia Sorento LX+ |  HEATED SEAT & STEERING | BLIND SPOT DETECTION | WIRELESS CHARGER | PUSH START | DRIVE MODE SE",
       "vin": "5XYPGDA36LG687932",
       "url": "https://gokiawest.aioptics.ca/used/6045ef2a262a.html",
       "year": 2020,
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 17998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Kia Soul EX Limited | NAVIGATION | LEATHER | SUNROOF | HEAT",
-      "vin": "KNDJ33AU3L7087743",
-      "url": "https://gokiawest.aioptics.ca/used/e1460e1d5b65.html",
-      "year": 2020,
-      "make": "Kia",
-      "model": "Soul",
-      "condition": "used",
-      "price": 12998.0,
+      "price": 16982.0,
       "price_currency": "CAD"
     },
     {
@@ -380,67 +408,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Kia Telluride SX | CLEAN LOCAL BC VEHICLE | NAVIGATION | LEATHER | SUNROOF | 8 PASSENGER | 360 CAMERA",
-      "vin": "5XYP5DHC3LG052131",
-      "url": "https://gokiawest.aioptics.ca/used/3acf22df8799.html",
+      "name": "2020 Kia Telluride EX | CLEAN LOCAL BC VEHICLE | NAVIGATION | LEATHER | SUNROOF | POWER TAILGATE | PUSH START",
+      "vin": "5XYP3DHC9LG059199",
+      "url": "https://gokiawest.aioptics.ca/used/16ed498b4e7e.html",
       "year": 2020,
       "make": "Kia",
       "model": "Telluride",
       "condition": "used",
-      "price": 27498.0,
+      "price": 22764.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 RAM 1500 Tradesman",
-      "vin": "1C6SRFNT5LN202531",
-      "url": "https://gokiawest.aioptics.ca/used/f96292ab51b4.html",
+      "name": "2020 Mazda CX-9 GT | CLEAN LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEATS | BOSE SOUND",
+      "vin": "JM3TCBDYXL0422403",
+      "url": "https://gokiawest.aioptics.ca/used/ef35385f5c33.html",
       "year": 2020,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used"
+      "make": "Mazda",
+      "model": "CX-9",
+      "condition": "used",
+      "price": 26998.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2020 Subaru Crosstrek Touring | HEATED SEAT | PADDLE SHIFTERS | PUSH START | STARLINK | ANDROID AUTO & APPLE CARPLAY",
-      "vin": "JF2GTAPC6L8248501",
-      "url": "https://gokiawest.aioptics.ca/used/31b8f92d99ba.html",
+      "name": "2020 Toyota Corolla LE | CLEAN LOCAL BC VEHICLE | HEATED SEAT | ELECTRIC E BRAKE | PRE COLISSION SYSTEM | LANE DEPARTURE",
+      "vin": "5YFBPRBE4LP129290",
+      "url": "https://gokiawest.aioptics.ca/used/8c8a1a48851b.html",
       "year": 2020,
-      "make": "Subaru",
-      "model": "Crosstrek",
+      "make": "Toyota",
+      "model": "Corolla",
       "condition": "used",
-      "price": 23498.0,
+      "price": 20998.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Tesla Model 3 Standard Range Plus | NAVIGATION | LEATHER | HEATE",
-      "vin": "5YJ3E1EA5LF715450",
-      "url": "https://gokiawest.aioptics.ca/used/9d0e2eadd6a3.html",
+      "name": "2020 Toyota Prius Prime Upgrade | LOCAL BC VEHICLE | NAVIGATION | LEATHER | HEATED SEATS & STEERING | PUSH START | WIRELESS ",
+      "vin": "JTDKARFP9L3155468",
+      "url": "https://gokiawest.aioptics.ca/used/13197e518def.html",
       "year": 2020,
-      "make": "Tesla",
-      "model": "Model 3",
+      "make": "Toyota",
+      "model": "Prius Prime",
       "condition": "used",
-      "price": 23799.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Acura RDX Tech | NAVIGATION | LEATHER | SUNROOF | FORWARD CO",
-      "vin": "5J8TC2H56ML806494",
-      "url": "https://gokiawest.aioptics.ca/used/b31c0cc7a19c.html",
-      "year": 2021,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 28298.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Chevrolet Bolt EV LT",
-      "vin": "1G1FY6S07M4108528",
-      "url": "https://gokiawest.aioptics.ca/used/7e1abadc30d9.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Bolt EV",
-      "condition": "used",
-      "price": 19998.0,
+      "price": 19799.0,
       "price_currency": "CAD"
     },
     {
@@ -455,36 +463,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Elantra Preferred | SUNROOF | HEATED SEATS & STEERING | PU",
-      "vin": "KMHLM4AG5MU124067",
-      "url": "https://gokiawest.aioptics.ca/used/493ce93ba7d6.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Elantra",
-      "condition": "used",
-      "price": 19298.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Hyundai Sonata N Line | NAVIGATION | SUNROOF | HUD | LEATHER | HE",
+      "name": "2021 Hyundai Sonata N Line | LOCAL BC VEHICLE | NAVIGATION | SUNROOF | HUD | LEATHER | HEATED SEATS & STEERING",
       "vin": "5NPEK4JC8MH112022",
       "url": "https://gokiawest.aioptics.ca/used/fbdddae0395f.html",
       "year": 2021,
       "make": "Hyundai",
       "model": "Sonata",
       "condition": "used",
-      "price": 21298.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Kia Forte Sedan EX | HEATED SEATS & STEERING | WIRELESS CHARGER |",
-      "vin": "3KPF54AD4ME263416",
-      "url": "https://gokiawest.aioptics.ca/used/ef6cf2709053.html",
-      "year": 2021,
-      "make": "Kia",
-      "model": "Forte",
-      "condition": "used",
-      "price": 16999.0,
+      "price": 20372.0,
       "price_currency": "CAD"
     },
     {
@@ -499,25 +485,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Kia Niro EV SX Touring | NAVIGATION | LEATHER | SUNROOF | HEAT",
-      "vin": "KNDCE3LG4M5089234",
-      "url": "https://gokiawest.aioptics.ca/used/00f37f018665.html",
+      "name": "2021 Kia Niro EV EX EV | CLEAN LOCAL BC VEHICLE | BATTERY SOH 100% | ANDROID AUTO & APPLE CARPLAY | PADDLE SHIFTERS |",
+      "vin": "KNDCC3LG3M5094320",
+      "url": "https://gokiawest.aioptics.ca/used/01ddaa8f894d.html",
       "year": 2021,
       "make": "Kia",
       "model": "Niro EV",
       "condition": "used",
-      "price": 26498.0,
+      "price": 21799.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Mercedes-Benz GLC GLC 300 | NAVIGATION | SUNROOF | LEATHER | PUSH ST",
-      "vin": "W1N0G8EB8MV320513",
-      "url": "https://gokiawest.aioptics.ca/used/5a284a49eab4.html",
+      "name": "2021 Kia Seltos EX | LOCAL BC VEHICLE | SUNROOF | LEATHER | HEATED SEATS & STEERING | PUSH START | ANDROID AUTO & AP",
+      "vin": "KNDEUCAA2M7200331",
+      "url": "https://gokiawest.aioptics.ca/used/d36b6db644f6.html",
+      "year": 2021,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 20893.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Kia Sorento LX Premium | CLEAN LOCAL BC VEHICLE | HEATED SEATS & STEERING | WIRELESS CHARGE | PUSH START | BLIND",
+      "vin": "5XYRGDLCXMG002919",
+      "url": "https://gokiawest.aioptics.ca/used/7bcc69753e60.html",
+      "year": 2021,
+      "make": "Kia",
+      "model": "Sorento",
+      "condition": "used",
+      "price": 24998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2021 Mercedes-Benz Metris Cargo Van LOCAL BC VEHICLE | REVERSE CAMERA | TPMS | BULKHEAD DIVIDER | CUSTOM SHELVING UNITS | BLUETOOTH",
+      "vin": "W1YV0CEY5M3916372",
+      "url": "https://gokiawest.aioptics.ca/used/a776059c0474.html",
       "year": 2021,
       "make": "Mercedes-Benz",
-      "model": "GLC",
+      "model": "Metris Cargo Van LOCAL BC VEHICLE",
       "condition": "used",
-      "price": 36499.0,
+      "price": 32499.0,
       "price_currency": "CAD"
     },
     {
@@ -532,36 +540,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 BMW M4 Coupe Competition M xDrive | CARBON BUCKET SEATS | ULTIM",
+      "name": "2022 BMW M4 Competition M xDrive | CLEAN LOCAL BC VEHICLE | CARBON BUCKET SEATS | ULTIMATE PKG | M CARBON EXTERI",
       "vin": "WBS43AZ06NCJ08929",
-      "url": "https://gokiawest.aioptics.ca/used/60cc950d8ac2.html",
+      "url": "https://gokiawest.aioptics.ca/used/c7f2552c5430.html",
       "year": 2022,
       "make": "BMW",
-      "model": "M4 Coupe Competition M xDrive",
+      "model": "M4 Competition M xDrive",
       "condition": "used",
-      "price": 90998.0,
+      "price": 88999.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Honda Accord Hybrid Touring HEV | NAVIGATION | HEATED / COOLED SEAT |",
-      "vin": "1HGCV3F92NA800095",
-      "url": "https://gokiawest.aioptics.ca/used/cf215c3446d1.html",
+      "name": "2022 Honda Pilot Black Edition | LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEAT | BLIND SPO",
+      "vin": "5FNYF6H01NB500606",
+      "url": "https://gokiawest.aioptics.ca/used/61a9f4f50c3d.html",
       "year": 2022,
       "make": "Honda",
-      "model": "Accord Hybrid",
+      "model": "Pilot",
       "condition": "used",
-      "price": 32998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Honda Civic Sedan Touring | LEATHER | NAVIGATION | SUNROOF | HEATED SEAT | HEATED STEERING",
-      "vin": "2HGFE1F93NH001901",
-      "url": "https://gokiawest.aioptics.ca/used/47811523df6c.html",
-      "year": 2022,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "used",
-      "price": 24399.0,
+      "price": 39499.0,
       "price_currency": "CAD"
     },
     {
@@ -576,6 +573,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Kia EV6 Long Range EV | | LOCAL BC VEHICLE | NAVIGATION | CLOTH/LEATHER SEATS | HEAT PUMP | HEATED SEATS & S",
+      "vin": "KNDC3DLC3N5084052",
+      "url": "https://gokiawest.aioptics.ca/used/851ea5b7f22a.html",
+      "year": 2022,
+      "make": "Kia",
+      "model": "EV6",
+      "condition": "used",
+      "price": 31499.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Kia Forte Sedan EX | HEATED SEATS | FORWARD COLLISION AVOIDANCE |",
       "vin": "3KPF34AD1NE521284",
       "url": "https://gokiawest.aioptics.ca/used/66175426ef76.html",
@@ -587,25 +595,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia Rio Hatchback 5-Door LX+ | HEATED SEAT | SPORT MODE | AC | CRUISE CONTR",
-      "vin": "3KPA25ADXNE474050",
-      "url": "https://gokiawest.aioptics.ca/used/857681f8886f.html",
+      "name": "2022 Kia Niro Plug-In Hybrid EX PHEV | LOCAL BC VEHICLE | HEATED SEAT | PUSH START | SUNROOF | WIRELESS CHARGE | ANDROID AUTO & A",
+      "vin": "KNDCD3LDXN5544582",
+      "url": "https://gokiawest.aioptics.ca/used/245299391cbd.html",
       "year": 2022,
       "make": "Kia",
-      "model": "Rio",
+      "model": "Niro Plug-In Hybrid",
       "condition": "used",
-      "price": 15998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Kia Seltos LX FWD | HEATED SEATS | ANDROID AUTO & APPLE CARPL",
-      "vin": "KNDEP2AA2N7326028",
-      "url": "https://gokiawest.aioptics.ca/used/e35e79a75668.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 17998.0,
+      "price": 21998.0,
       "price_currency": "CAD"
     },
     {
@@ -620,36 +617,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Nissan Murano Midnight Edition | NAVIGATION | PWR DR SEAT | LEAT",
-      "vin": "5N1AZ2CS5NC123328",
-      "url": "https://gokiawest.aioptics.ca/used/b121b3aeee38.html",
+      "name": "2022 Kia Stinger SCORPION | LIMITED EDITION | LOCAL BC CAR | HUD | SUNROOF | LEATHER",
+      "vin": "KNAE55LC5N6114300",
+      "url": "https://gokiawest.aioptics.ca/used/7c0f53b03d60.html",
       "year": 2022,
-      "make": "Nissan",
-      "model": "Murano",
+      "make": "Kia",
+      "model": "Stinger",
       "condition": "used",
-      "price": 28798.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Nissan Sentra SR Midnight Edition |  CLEAN LOCAL BC VEHICLE | SUNROOF | HEATED SEATS & STEERING | BLIND SPOT WARNI",
-      "vin": "3N1AB8DV1NY230083",
-      "url": "https://gokiawest.aioptics.ca/used/a29ba870269e.html",
-      "year": 2022,
-      "make": "Nissan",
-      "model": "Sentra",
-      "condition": "used",
-      "price": 19698.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Subaru Legacy Sedan Touring | CLEAN LOCAL BC VEHICLE | SUNROOF | PUSH START | HEATED SEATS & STEERING | HOMELINK | ELECT",
-      "vin": "4S3BWDE68N3016710",
-      "url": "https://gokiawest.aioptics.ca/used/ab400be44a3f.html",
-      "year": 2022,
-      "make": "Subaru",
-      "model": "Legacy",
-      "condition": "used",
-      "price": 24498.0,
+      "price": 46499.0,
       "price_currency": "CAD"
     },
     {
@@ -664,17 +639,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Toyota Corolla Hatchback BASE | LOCAL BC VEHICLE | FORWARD COLLISION M,ITIGATION | PUSH START | REVERSE CAMERA | SPORT MODE |",
-      "vin": "JTNK4MBE3N3157827",
-      "url": "https://gokiawest.aioptics.ca/used/b13fa06fda21.html",
-      "year": 2022,
-      "make": "Toyota",
-      "model": "Corolla",
-      "condition": "used",
-      "price": 22898.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Volkswagen Atlas Highline | NAVIGATION | SUNROOF | LEATHER | HEATED",
       "vin": "1V2BR2CA9NC562322",
       "url": "https://gokiawest.aioptics.ca/used/7163d4f4d036.html",
@@ -686,17 +650,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Volkswagen Jetta Sedan Comfortline | CLEAN LOCAL BC VEHICLE | HEATED SEAT | PUSH START | AUTO SHUT OFF | LEATHER | ECO MODE",
-      "vin": "3VWEM7BU0NM033651",
-      "url": "https://gokiawest.aioptics.ca/used/4dfc2b900226.html",
-      "year": 2022,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "used",
-      "price": 21998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Volkswagen Tiguan Comfortline R-Line Black Edition | SUNROOF | HEATED SEAT | LEATHER | PUSH START | HEATED STEERING",
       "vin": "3VV8B7AX0NM075188",
       "url": "https://gokiawest.aioptics.ca/used/c9d1757dd7a9.html",
@@ -705,17 +658,6 @@
       "model": "Tiguan",
       "condition": "used",
       "price": 26998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 BMW iX xDrive50 | PREMIUM/ESSENTIAL PKG | SPORT PKG | NAVIGATION | HEATED SEATS & STEERING | PWR SEATS",
-      "vin": "WB523CF00PCM64256",
-      "url": "https://gokiawest.aioptics.ca/used/61429959e538.html",
-      "year": 2023,
-      "make": "BMW",
-      "model": "iX",
-      "condition": "used",
-      "price": 49998.0,
       "price_currency": "CAD"
     },
     {
@@ -752,25 +694,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Elantra Preferred | PUSH START | LANE KEEP ASSIST | DRIVE",
+      "name": "2023 Hyundai Elantra Preferred | LOCAL BC VEHICLE | PUSH START | LANE KEEP ASSIST | DRIVE MODE SELECT | REVERSE CAMERA | ",
       "vin": "KMHLM4AG3PU431600",
       "url": "https://gokiawest.aioptics.ca/used/2aba98debdc7.html",
       "year": 2023,
       "make": "Hyundai",
       "model": "Elantra",
       "condition": "used",
-      "price": 17498.0,
+      "price": 17279.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Hyundai Santa Fe Hybrid Luxury HEV | CLEAN LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEATS | BLIND",
-      "vin": "KM8S5DA15PU089930",
-      "url": "https://gokiawest.aioptics.ca/used/be0d02f5639b.html",
+      "name": "2023 Hyundai Palisade Urban | CLEAN LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEATS | POWER TAIL",
+      "vin": "KM8R3DGE4PU499231",
+      "url": "https://gokiawest.aioptics.ca/used/1936183d6331.html",
       "year": 2023,
       "make": "Hyundai",
-      "model": "Santa Fe Hybrid",
+      "model": "Palisade",
       "condition": "used",
-      "price": 33498.0,
+      "price": 38729.0,
       "price_currency": "CAD"
     },
     {
@@ -796,6 +738,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Kia Carnival LX | CLEAN LOCAL BC VEHICLE | ANDROID AUTO & APPLE CARPLAY | FORWARD COLLISION AVOIDANCE | LANE KEEP",
+      "vin": "KNDNB5H33P6259875",
+      "url": "https://gokiawest.aioptics.ca/used/b8fc164293b8.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "used",
+      "price": 30699.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Kia EV6 Long Range | LOCAL BC EV | CLEAN CARFAX | HEATED SEATS & STEERING | CLOTH/ LEATHER SEATS | HEAT PUMP",
       "vin": "KNDC3DLC4P5106112",
       "url": "https://gokiawest.aioptics.ca/used/ca3cd2b98861.html",
@@ -804,6 +757,17 @@
       "model": "EV6",
       "condition": "used",
       "price": 38999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Kia EV6 Long Range w/GT-Line Pkg 1 | EV | CLEAN LOCAL BC VEHICLE | NAVIGATION | LEATHER | POWER TAILGATE | B",
+      "vin": "KNDC4DLC2P5106669",
+      "url": "https://gokiawest.aioptics.ca/used/179a09a397b3.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "EV6",
+      "condition": "used",
+      "price": 40998.0,
       "price_currency": "CAD"
     },
     {
@@ -829,25 +793,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Niro EV Limited | LEATHER | SUNROOF | NAVIGATION | HUD | H",
-      "vin": "KNDCT3L17P5061336",
-      "url": "https://gokiawest.aioptics.ca/used/35b0adb1a4de.html",
+      "name": "2023 Kia Forte Sedan GT Limited | CLEAN LOCAL BC VEHICLE | NAVIGATION | HEATED / COOLED SEATS | PADDLE SHIFTERS | LEATHER",
+      "vin": "3KPF44ACXPE595116",
+      "url": "https://gokiawest.aioptics.ca/used/bb579f0ba41d.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Forte",
+      "condition": "used",
+      "price": 23977.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Kia Niro EV Premium EV | CLEAN LOCAL BC VEHICLE | NAVIGATION | PUSH START | FORWARD COLLISION AVOIDANCE | BLIND ",
+      "vin": "KNDCP3L16P5073398",
+      "url": "https://gokiawest.aioptics.ca/used/204b72a7714f.html",
       "year": 2023,
       "make": "Kia",
       "model": "Niro EV",
       "condition": "used",
-      "price": 31798.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Niro Plug-In Hybrid EX PHEV | NAVIGATION | LEATHER/CLOTH SEAT | HEATED",
-      "vin": "KNDCS3LF8P5083778",
-      "url": "https://gokiawest.aioptics.ca/used/baac17da6e61.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Niro Plug-In Hybrid",
-      "condition": "used",
-      "price": 33298.0,
+      "price": 29998.0,
       "price_currency": "CAD"
     },
     {
@@ -884,25 +848,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Sorento SX | NAVIGATION | SUNROOF | LEATHER | HEATED / COO",
+      "name": "2023 Kia Sorento SX | NO REPORTED ACCIDENTS | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEATS | BOSE SOUND",
       "vin": "5XYRKDLF8PG194015",
       "url": "https://gokiawest.aioptics.ca/used/55707dcc2fd9.html",
       "year": 2023,
       "make": "Kia",
       "model": "Sorento",
       "condition": "used",
-      "price": 36997.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Soul EX Premium | NAVIGATION  SUNROOF HEATED SEATS & ST",
-      "vin": "KNDJ33AU4P7874402",
-      "url": "https://gokiawest.aioptics.ca/used/38c432eb4b07.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Soul",
-      "condition": "used",
-      "price": 22998.0,
+      "price": 34892.0,
       "price_currency": "CAD"
     },
     {
@@ -928,50 +881,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Soul EX | ANDROID AUTO & APPLE CARPLAY | HEATED SEATS &",
-      "vin": "KNDJ33AU6P7209873",
-      "url": "https://gokiawest.aioptics.ca/used/41838ee86cd5.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Soul",
-      "condition": "used",
-      "price": 19998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage Hybrid EX HEV | NAVIGATION | KIA CONNECT | LEATHER | PUSH",
-      "vin": "KNDPVCAG7P7033835",
-      "url": "https://gokiawest.aioptics.ca/used/66736d95e45b.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage Hybrid",
-      "condition": "used",
-      "price": 31998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage EX Premium | NAVIGATION | LEATHER | SUNROOF | HEATED / COOLED SEAT | HEATED STEERING",
-      "vin": "KNDPVCAF2P7127015",
-      "url": "https://gokiawest.aioptics.ca/used/9c965451804c.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 21598.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Kia Sportage LX FWD | LOCAL BC VEHICLE | ANDROID AUTO & APPLE CARPLAY | DRIVE MODE SELECT | FORWARD COLLISION AVO",
-      "vin": "KNDPU3AF7P7114621",
-      "url": "https://gokiawest.aioptics.ca/used/b0498c325406.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 22498.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Kia Sportage X-Line | PUSH START | LEATHER | WIRELESS CHARGER | BLIND SPOT COLISSION AVOIDANCE | ANDROID AUTO & A",
       "vin": "KNDPUCAF7P7125344",
       "url": "https://gokiawest.aioptics.ca/used/4427cce088e9.html",
@@ -980,6 +889,28 @@
       "model": "Sportage",
       "condition": "used",
       "price": 28198.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Kia Sportage LX | ANDROID AUTO & APPLE CARPLAY | DRIVE MODE SELECT | FORWARD COLLISION AVOIDANCE | LANE KEEP ASSI",
+      "vin": "KNDPUCAF4P7175537",
+      "url": "https://gokiawest.aioptics.ca/used/e87b2062b88c.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 22998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Kia Sportage EX Premium | CLEAN LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | POWER TAILGATE | HEATED / COO",
+      "vin": "KNDPVCAF8P7067919",
+      "url": "https://gokiawest.aioptics.ca/used/add84728fa3a.html",
+      "year": 2023,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 30498.0,
       "price_currency": "CAD"
     },
     {
@@ -1005,17 +936,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Telluride SX | NAVIGATION | LEATHER | SUNROOF | 360 CAMERA |",
-      "vin": "5XYP5DGC6PG326686",
-      "url": "https://gokiawest.aioptics.ca/used/f9afc67495d4.html",
-      "year": 2023,
-      "make": "Kia",
-      "model": "Telluride",
-      "condition": "used",
-      "price": 41997.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Mercedes-Benz C-Class Sedan C 300 | LOCAL BC VEHICLE | NAVIGATION | SUNROOF | CREAM LEATHER | HEATED SEAT | PUSH START",
       "vin": "W1KAF4HB9PR100125",
       "url": "https://gokiawest.aioptics.ca/used/8b0f6e0c34e0.html",
@@ -1038,28 +958,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Qashqai S | HEATED SEAT | SPORT MODE | ECO MODE | REVERSE",
-      "vin": "JN1BJ1AW0PW113746",
-      "url": "https://gokiawest.aioptics.ca/used/82f173423fce.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 18200.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Nissan Rogue SL | NAVIGATION | LEATHER | HEATED SEATS & STEERING | PWR SEATS | PUSH START | AROUND VIEW MONITOR",
-      "vin": "JN8BT3CB5PW182207",
-      "url": "https://gokiawest.aioptics.ca/used/64660c9965aa.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 24498.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Tesla Model Y Long Range | NAVIGATION | LEATHER | HEATED SEATS & STEERING | WIRELESS CHARGE | PWR DR SEAT",
       "vin": "7SAYGDEE5PF697433",
       "url": "https://gokiawest.aioptics.ca/used/a7c138d6501b.html",
@@ -1068,6 +966,17 @@
       "model": "Model Y",
       "condition": "used",
       "price": 46998.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Tesla Model Y Long Range | EV | NAVIGATION | LEATHER | HEATED SEATS & STEERING | WIRELESS CHARGE | PWR DR SEAT",
+      "vin": "7SAYGDEEXPF597327",
+      "url": "https://gokiawest.aioptics.ca/used/c16c2089d089.html",
+      "year": 2023,
+      "make": "Tesla",
+      "model": "Model Y",
+      "condition": "used",
+      "price": 44998.0,
       "price_currency": "CAD"
     },
     {
@@ -1082,14 +991,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Chrysler Pacifica Touring-L | ANDROID AUTO & APPLE CARPLAY | HEATED",
+      "name": "2024 Chrysler Pacifica Touring-L | NO REPORTED ACCIDENTS | ANDROID AUTO & APPLE CARPLAY | HEATED SEATS & STEERING | PWR DR ",
       "vin": "2C4RC1BG8RR188851",
       "url": "https://gokiawest.aioptics.ca/used/c8e14b57641e.html",
       "year": 2024,
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 34798.0,
+      "price": 33494.0,
       "price_currency": "CAD"
     },
     {
@@ -1115,6 +1024,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Honda Civic Sedan Sport | LOCAL BC VEHICLE | SUNROOF | HEATED SEATS & STEERING | PUSH START | DRIVE MODE SELECT | REVE",
+      "vin": "2HGFE2F52RH101464",
+      "url": "https://gokiawest.aioptics.ca/used/8bb3e84173dc.html",
+      "year": 2024,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "used",
+      "price": 26999.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Honda CR-V Hybrid Touring | NAVIGATION | SUNROOF | LEATHER | POWER TAILGATE | HEATED SEATS & STEERING",
       "vin": "2HKRS6H99RH219028",
       "url": "https://gokiawest.aioptics.ca/used/ebb7189c506c.html",
@@ -1137,14 +1057,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Hyundai Kona Electric Ultimate | CLEAN LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEATS | HUD",
-      "vin": "KM8HE3A68RU006770",
-      "url": "https://gokiawest.aioptics.ca/used/6de20173a2dc.html",
+      "name": "2024 Hyundai IONIQ 5 Preferred | ULTIMATE | EV | LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | HUD | HEATED / COOLE",
+      "vin": "KM8KRDDF4RU279572",
+      "url": "https://gokiawest.aioptics.ca/used/3bff4f6509f1.html",
       "year": 2024,
       "make": "Hyundai",
-      "model": "Kona Electric",
+      "model": "IONIQ 5",
       "condition": "used",
-      "price": 36498.0,
+      "price": 45498.0,
       "price_currency": "CAD"
     },
     {
@@ -1170,14 +1090,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia EV9 Land w/GT-Line Package | EV | BC VEHICLE | CLEAN CARFAX | NAVIGATION | LEATHER | HUD | SUNROOF | REM",
-      "vin": "KNDAEFS59R6024938",
-      "url": "https://gokiawest.aioptics.ca/used/6be42811943c.html",
+      "name": "2024 Kia EV9 Land EV | NAVIGATION| HEAT PUMP | TERRAIN MODE | FORWARD COLLISION AVOIDANCE | BLIND SPOT",
+      "vin": "KNDAFFS58R6044983",
+      "url": "https://gokiawest.aioptics.ca/used/fb58082a5d20.html",
       "year": 2024,
       "make": "Kia",
-      "model": "EV9 Land w/GT-Line Package",
+      "model": "EV9 Land EV",
       "condition": "used",
-      "price": 65999.0,
+      "price": 57899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia EV9 Land EV | CLEAN CARFAX | BATTERY SOH 99.7% | NAVIGATION | HEAT PUMP | TERRAIN MODE | FORWARD COLLISI",
+      "vin": "KNDAFFS52R6048298",
+      "url": "https://gokiawest.aioptics.ca/used/eee9cb3d24ca.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "EV9 Land EV",
+      "condition": "used",
+      "price": 58899.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia EV9 Land EV | CLEAN CARFAX | BATTERY SOH 98.5% | NAVIGATION | HEAT PUMP | TERRAIN MODE | FORWARD COLLISI",
+      "vin": "KNDAFFS52R6044140",
+      "url": "https://gokiawest.aioptics.ca/used/4a4e5cf86740.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "EV9 Land EV",
+      "condition": "used",
+      "price": 60899.0,
       "price_currency": "CAD"
     },
     {
@@ -1203,25 +1145,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia K5 EX | LEATHER | WIRELESS CHARGE | HEATED SEATS & STEERING | PUSH START | SMART CRUISE CONTROL",
-      "vin": "5XXG34J29RG231309",
-      "url": "https://gokiawest.aioptics.ca/used/99d0352fd70e.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "K5",
-      "condition": "used",
-      "price": 23498.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Niro EV Wind+ | NAVIGATION | HEATED SEATS | PUSH START | R",
+      "name": "2024 Kia Niro EV Wind+ | CLEAN LOCAL BC VEHICLE | NAVIGATION | HEATED SEATS | PUSH START | REVERSE CAMERA  | ELECTRIC",
       "vin": "KNDCR3L1XR5101068",
       "url": "https://gokiawest.aioptics.ca/used/07afc5e97a14.html",
       "year": 2024,
       "make": "Kia",
       "model": "Niro EV",
       "condition": "used",
-      "price": 32798.0,
+      "price": 28991.0,
       "price_currency": "CAD"
     },
     {
@@ -1233,39 +1164,6 @@
       "model": "Niro EV",
       "condition": "used",
       "price": 33998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Seltos SX | LOCAL BC VEHICLE | HUD | LEATHER | NAVIGATION | HEATED / COOLED SEATS | HEATED STEERING",
-      "vin": "KNDETCA77R7569880",
-      "url": "https://gokiawest.aioptics.ca/used/f7037d5f33d7.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 25199.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Seltos EX | CLEAN LOCAL BC VEHICLE | ANDROID AUT & APPLE CARPLAY | DRIVE MODE SELECT | BLIND SPOT COLLISION",
-      "vin": "KNDEUCAA2R7545639",
-      "url": "https://gokiawest.aioptics.ca/used/eabec5bba9e0.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 25198.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Kia Seltos EX | ANDROID AUTO & APPLE CARPLAY | DRIVE MODE SELECT | BLIND SPOT COLLISION WARNING | REVERSE CAMER",
-      "vin": "KNDEUCAA0R7619298",
-      "url": "https://gokiawest.aioptics.ca/used/cac7070df39a.html",
-      "year": 2024,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 21698.0,
       "price_currency": "CAD"
     },
     {
@@ -1335,6 +1233,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2024 Kia Sportage EX | CLEAN LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | PUSH START | BLIND SPOT COLISSION AVO",
+      "vin": "KNDPVCDF1R7287966",
+      "url": "https://gokiawest.aioptics.ca/used/44f7a27f67c4.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 32852.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia Sportage EX | LOCAL BC VEHICLE | NAVIGATION | SUNROOF | LEATHER | KIA CONNECT | PUSH START",
+      "vin": "KNDPVCDF1R7253364",
+      "url": "https://gokiawest.aioptics.ca/used/72f55883affb.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "used",
+      "price": 32852.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2024 Kia Telluride SX Limited | NAVIGATION | LEATHER | SUNROOF | HUD",
       "vin": "5XYP5DGC6RG434583",
       "url": "https://gokiawest.aioptics.ca/used/8986ad8d5c15.html",
@@ -1379,14 +1299,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Mazda CX-5 GS | NO REPORTED ACCIDENTS | LEATHER | HEATED SEATS & STEERING | PUSH START | PWR DR SEAT | LEATHER ",
-      "vin": "JM3KFBCL7R0522511",
-      "url": "https://gokiawest.aioptics.ca/used/9461730d3aaf.html",
+      "name": "2024 Kia Telluride X-Line | CLEAN LOCAL BC VEHICLE | NAVIGATION | LEATHER | HUD | HEATED / COOLED SEATS | TOW MODE",
+      "vin": "5XYP5DGC8RG466564",
+      "url": "https://gokiawest.aioptics.ca/used/ad6682ecb3dd.html",
       "year": 2024,
-      "make": "Mazda",
-      "model": "CX-5",
+      "make": "Kia",
+      "model": "Telluride",
       "condition": "used",
-      "price": 28698.0,
+      "price": 49651.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia Telluride X-Pro | NO REPORTED ACCIDENTS | NAVIGATION | LEATHER | SUNROOF | TOW MODE | HEATED / COOLED SEATS",
+      "vin": "5XYP5DGC3RG422519",
+      "url": "https://gokiawest.aioptics.ca/used/b734c7fdab77.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Telluride",
+      "condition": "used",
+      "price": 50943.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Kia Telluride X-Line | CLEAN CARFAX | LOCAL TRADE | NAVIGATION | SUNROOF | LEATHER | HEATED / COOLED SEATS | TOW M",
+      "vin": "5XYP5DGC0RG446650",
+      "url": "https://gokiawest.aioptics.ca/used/1e5f46906499.html",
+      "year": 2024,
+      "make": "Kia",
+      "model": "Telluride",
+      "condition": "used",
+      "price": 49472.0,
       "price_currency": "CAD"
     },
     {
@@ -1467,36 +1409,36 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen Golf R AUTO | NAVIGATION | HEATED / COOLED SEATS | LEATHE",
+      "name": "2024 Volkswagen Golf R AUTO | CLEAN LOCAL BC VEHICLE | NAVIGATION | HEATED / COOLED SEATS | LEATHER | SHORT STOP SYSTEM | P",
       "vin": "WVWEB7CD1RW160258",
       "url": "https://gokiawest.aioptics.ca/used/7f04691628fd.html",
       "year": 2024,
       "make": "Volkswagen",
       "model": "Golf R",
       "condition": "used",
-      "price": 38498.0,
+      "price": 37399.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Volkswagen ID.4 Pro | NAVIGATION | HEATED SEAT | PUSH START | CRUI",
-      "vin": "1V2URPE84RC010331",
-      "url": "https://gokiawest.aioptics.ca/used/5cc58768739d.html",
-      "year": 2024,
-      "make": "Volkswagen",
-      "model": "ID.4",
-      "condition": "used",
-      "price": 34998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Volkswagen Taos Comfortline | SUNROOF | PUSH START | HEATED SEAT |",
+      "name": "2024 Volkswagen Taos Comfortline | CLEAN LOCAL BC VEHICLE | SUNROOF | PUSH START | HEATED SEAT | CLOTH/LEATHER SEAT | ELE",
       "vin": "3VVEX7B21RM028474",
       "url": "https://gokiawest.aioptics.ca/used/d12120e90c6b.html",
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 20798.0,
+      "price": 19799.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Acura MDX A-Spec | LOCAL BC VEHICLE | RED LEATHER / SUEDE | SUNROOF | HEATED / COOLED SEATS | PUSH START | PAD",
+      "vin": "5J8YE1H02SL800803",
+      "url": "https://gokiawest.aioptics.ca/used/68b316f395d4.html",
+      "year": 2025,
+      "make": "Acura",
+      "model": "MDX",
+      "condition": "used",
+      "price": 56999.0,
       "price_currency": "CAD"
     },
     {
@@ -1522,14 +1464,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Ford Expedition Max Platinum Max | STEALTH PKG | LEATHER | NAVIGATION",
-      "vin": "1FMJK1M86SEA01949",
-      "url": "https://gokiawest.aioptics.ca/used/a7a551caeea7.html",
+      "name": "2025 Chevrolet Trax LT | CLEAN VEHICLE | FRONT COLISSION MITIGATION | BLIND SPOT MONITOR | HEATED SEATS & STEERING | PUS",
+      "vin": "KL77LHE28SC104569",
+      "url": "https://gokiawest.aioptics.ca/used/ee84a000e8e1.html",
       "year": 2025,
-      "make": "Ford",
-      "model": "Expedition",
+      "make": "Chevrolet",
+      "model": "Trax",
       "condition": "used",
-      "price": 85998.0,
+      "price": 21998.0,
       "price_currency": "CAD"
     },
     {
@@ -1577,17 +1519,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Odyssey Black Edition | NAVIGATION | LEATHER | SUNROOF | H",
-      "vin": "5FNRL6H02SB503426",
-      "url": "https://gokiawest.aioptics.ca/used/62774b1a737a.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Odyssey",
-      "condition": "used",
-      "price": 54498.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Elantra Essential | HEATED SEAT | AUTO SHUT OFF | DRIVE MODE SELECT | ANDROID AUTO & APPLE CARPLAY | KEYLESS",
       "vin": "KMHLM4DG0SU093299",
       "url": "https://gokiawest.aioptics.ca/used/2d7924c2c017.html",
@@ -1599,14 +1530,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Santa Fe Hybrid Preferred HEV | DRIVE MODE SELECT | TERRAIN MODES",
+      "name": "2025 Hyundai Santa Fe Hybrid Preferred HEV | CLEAN LOCAL BC VEHICLE | DRIVE MODE SELECT | TERRAIN MODES | HEATED SEATS | PUSH STA",
       "vin": "KM8P2DG16SU103705",
       "url": "https://gokiawest.aioptics.ca/used/ca71470a1264.html",
       "year": 2025,
       "make": "Hyundai",
       "model": "Santa Fe Hybrid",
       "condition": "used",
-      "price": 41998.0,
+      "price": 39682.0,
       "price_currency": "CAD"
     },
     {
@@ -1621,17 +1552,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Tucson XRT | HEATED SEATS & STEERING | SUNROOF | LEATHER",
-      "vin": "5NMJFCDE9SH470427",
-      "url": "https://gokiawest.aioptics.ca/used/0961c10869b7.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 28799.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Hyundai Venue Preferred | CLEAN LOCAL BC VEHICLE | HEATED SEATS & STEERING | PUSH START | BLIND SPOT MONITOR | FRO",
       "vin": "KMHRC8A34SU410765",
       "url": "https://gokiawest.aioptics.ca/used/97a7f710ec32.html",
@@ -1643,14 +1563,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Carnival SX PLUS | CLEAN CARFAX | GREAT FAMILY VAN | FULLY LOADED",
-      "vin": "KNDNE5K37S6466746",
-      "url": "https://gokiawest.aioptics.ca/used/dd39e2a2d7ee.html",
+      "name": "2025 Kia Carnival Hybrid SX+ HEV | CLEAN LOCAL BC VEHICLE | NAVIGATION | LEATHER | SUNROOF | HUD | HEATED / COOLED SEATS | BO",
+      "vin": "KNDNE5KA0S6078188",
+      "url": "https://gokiawest.aioptics.ca/used/b9ce5b72fe8c.html",
       "year": 2025,
       "make": "Kia",
-      "model": "Carnival",
+      "model": "Carnival Hybrid",
       "condition": "used",
-      "price": 49999.0,
+      "price": 51499.0,
       "price_currency": "CAD"
     },
     {
@@ -1665,6 +1585,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2025 Kia EV6 Land w/GT-Line Pkg | NAVIGATION | SUNROOF | SURROUND VIEW MONITOR | DIGITAL KEY |  SMART POWER LIFTG",
+      "vin": "5XYC4DJCXSG001588",
+      "url": "https://gokiawest.aioptics.ca/used/622be66423b8.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "EV6 Land w/GT-Line Pkg",
+      "condition": "used",
+      "price": 52192.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2025 Kia EV9 Land | CLEAN LOCAL BC VEHICLE | NAVIGATION | HEAT PUMP | TERRAIN MODE | FORWARD COLLISION AVOIDANCE ",
       "vin": "KNDAFFS52S6060179",
       "url": "https://gokiawest.aioptics.ca/used/08d23aaf8901.html",
@@ -1676,25 +1607,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia K4 LX | CLEAN LOCAL BC VEHICLE | ANDROID AUTO & APPLE CARPLAY | FORWARD COLLISION AVOIDANCE | HEATED SE",
-      "vin": "3KPFT4DE6SE166631",
-      "url": "https://gokiawest.aioptics.ca/used/278a1e73bc1e.html",
+      "name": "2025 Kia EV9 Land EV | NO REPORTED ACCIDENTS | NAVIGATION | HEAT PUMP | TERRAIN MODE | FORWARD COLLISION AVOIDANC",
+      "vin": "KNDAFFS5XS6059653",
+      "url": "https://gokiawest.aioptics.ca/used/322ec5737485.html",
       "year": 2025,
       "make": "Kia",
-      "model": "K4",
+      "model": "EV9 Land EV",
       "condition": "used",
-      "price": 22698.0,
+      "price": 61899.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia K4 EX | WIRELESS CHARGER | HEATED SEATS & STEERING | BLIND SPOT COLISSION AVOIDANCE | PUSH START | DRIV",
-      "vin": "3KPFU4DE8SE034242",
-      "url": "https://gokiawest.aioptics.ca/used/5f1a8301ddbe.html",
+      "name": "2025 Kia EV9 Land w/Plus Package EV | NO REPORTED ACCIDENTS | BATTERY SOH 100% | NAVIGATION | SUNROOF | LEATHER |",
+      "vin": "KNDADFS53S6060486",
+      "url": "https://gokiawest.aioptics.ca/used/80567a440aea.html",
       "year": 2025,
       "make": "Kia",
-      "model": "K4",
+      "model": "EV9 Land w/Plus Package EV",
       "condition": "used",
-      "price": 24798.0,
+      "price": 64899.0,
       "price_currency": "CAD"
     },
     {
@@ -1706,17 +1637,6 @@
       "model": "Niro EV",
       "condition": "used",
       "price": 33298.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Kia Seltos LX | ANDROID AUTO & APPLE CARPLAY | HEATED SEATS | BLIND SPOT COLLISION AVOIDANCE  | REVERSE CAMERA ",
-      "vin": "KNDEP2AA7S7754463",
-      "url": "https://gokiawest.aioptics.ca/used/7575756d7f82.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 24298.0,
       "price_currency": "CAD"
     },
     {
@@ -1764,25 +1684,102 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Seltos EX | LEATHER | SUNROOF | HEATED SEATS & STEERING |",
+      "name": "2025 Kia Seltos EX | CLEAN LOCAL BC VEHICLE | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CAR",
       "vin": "KNDEUCAA1S7790339",
       "url": "https://gokiawest.aioptics.ca/used/59c6ff88cb52.html",
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 26998.0,
+      "price": 25994.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Seltos EX | LEATHER | SUNROOF | HEATED SEATS & STEERING |",
+      "name": "2025 Kia Seltos EX | CLEAN CARFAX | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CARPLAY | DRI",
       "vin": "KNDEUCAA7S7772153",
       "url": "https://gokiawest.aioptics.ca/used/2a868a980b04.html",
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
       "condition": "used",
-      "price": 26498.0,
+      "price": 25384.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX | CLEAN LOCAL BC VEHICLE | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CAR",
+      "vin": "KNDEUCAAXS7792459",
+      "url": "https://gokiawest.aioptics.ca/used/b8e028e0be04.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 25994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX | CLEAN LOCAL BC VEHICLE | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CAR",
+      "vin": "KNDEUCAA2S7795632",
+      "url": "https://gokiawest.aioptics.ca/used/14aed39a26c1.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 25994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX | CLEAN LOCAL BC VEHICLE | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CAR",
+      "vin": "KNDEUCAA9S7795031",
+      "url": "https://gokiawest.aioptics.ca/used/8cc39d3972ec.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 25994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX | CLEAN LOCAL BC VEHICLE | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CAR",
+      "vin": "KNDEUCAA3S7800790",
+      "url": "https://gokiawest.aioptics.ca/used/b1b9a304492d.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 25994.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX | LOCAL BC VEHICLE | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CARPLAY |",
+      "vin": "KNDEUCAA9S7795692",
+      "url": "https://gokiawest.aioptics.ca/used/e3578f449a24.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 25699.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX | CLEAN LOCAL BC VEHICLE | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CAR",
+      "vin": "KNDEUCAA9S7795417",
+      "url": "https://gokiawest.aioptics.ca/used/37b5e70c030c.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 25861.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Kia Seltos EX | CLEAN LOCAL BC VEHICLE | LEATHER | SUNROOF | HEATED SEATS & STEERING | ANDROID AUTO & APPLE CAR",
+      "vin": "KNDEUCAA8S7795585",
+      "url": "https://gokiawest.aioptics.ca/used/3c0270c5ea7b.html",
+      "year": 2025,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 25994.0,
       "price_currency": "CAD"
     },
     {
@@ -1819,17 +1816,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Sorento Plug-In Hybrid EX PHEV | CLEAN LOCAL BC VEHICLE | LEATHER | PUSH START | HEATED SEATS & STEERING | POWER TAILGATE |",
-      "vin": "KNDRJDJH2S5330891",
-      "url": "https://gokiawest.aioptics.ca/used/8ed07fa73b88.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Sorento Plug-In Hybrid",
-      "condition": "used",
-      "price": 43999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Kia Sorento Plug-In Hybrid EX",
       "vin": "KNDRJDJH4S5342265",
       "url": "https://gokiawest.aioptics.ca/used/e19a1af4ce58.html",
@@ -1863,14 +1849,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Sportage Hybrid SX HEV | CLEAN LOCAL BC VEHICLE | NAVIGATION | LEATHER | SUNROOF | HEATED /COOLED SEATS | POWER TAIL",
-      "vin": "KNDPXCDG4S7237622",
-      "url": "https://gokiawest.aioptics.ca/used/dd632dac7b28.html",
+      "name": "2025 Kia Sorento EX | LOCAL BC VEHICLE | WIRELESS CHARGE | SMART POWER LIFTGATE | HOMELINK | HEATED SEATS | FORWARD C",
+      "vin": "5XYRHDJF9SG385503",
+      "url": "https://gokiawest.aioptics.ca/used/afb440a9a088.html",
       "year": 2025,
       "make": "Kia",
-      "model": "Sportage Hybrid",
+      "model": "Sorento",
       "condition": "used",
-      "price": 43498.0,
+      "price": 39499.0,
       "price_currency": "CAD"
     },
     {
@@ -2017,36 +2003,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mercedes-Benz Sprinter Cargo Van High Roof 4-Cyl Diesel | PUSH START | HEATED SEAT",
-      "vin": "W1Y4KCHY9SP799208",
-      "url": "https://gokiawest.aioptics.ca/used/72fc1d6680dc.html",
+      "name": "2025 Mazda CX-50 Hybrid GS-L HEV | CLEAN LOCAL BC VEHICLE | RED LEATHER | SUNROOF | WIRELESS CHARGE | PUSH START | HEATED SE",
+      "vin": "7MMVAACW6SN103177",
+      "url": "https://gokiawest.aioptics.ca/used/d6ef717c06fd.html",
       "year": 2025,
-      "make": "Mercedes-Benz",
-      "model": "Sprinter",
+      "make": "Mazda",
+      "model": "CX-50 Hybrid",
       "condition": "used",
-      "price": 49998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mercedes-Benz Sprinter Cargo Van High Roof 4-Cyl Diesel | PADDLE SHIFTERS | HEATED",
-      "vin": "W1Y4KCHY6SP796752",
-      "url": "https://gokiawest.aioptics.ca/used/91ccb7edfd08.html",
-      "year": 2025,
-      "make": "Mercedes-Benz",
-      "model": "Sprinter",
-      "condition": "used",
-      "price": 51998.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mercedes-Benz Sprinter Cargo Van High Roof 4-Cyl Diesel | HEATED SEAT | PUSH START | AC | CRUISE CONTROL | PADDLE SHIFTERS",
-      "vin": "W1Y4KCHY5SP792644",
-      "url": "https://gokiawest.aioptics.ca/used/9bab9bdf0acd.html",
-      "year": 2025,
-      "make": "Mercedes-Benz",
-      "model": "Sprinter",
-      "condition": "used",
-      "price": 51998.0,
+      "price": 45499.0,
       "price_currency": "CAD"
     },
     {
@@ -2072,17 +2036,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Hyundai IONIQ 5 Preferred w ultimate pkg | CLEAN LOCAL BC VEHICLE | NAVIGATION | LEATHER | SUNROOF | HEATED / COOLED",
-      "vin": "KM8KRDDC0TU399902",
-      "url": "https://gokiawest.aioptics.ca/used/2216d5698a56.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "IONIQ 5",
-      "condition": "used",
-      "price": 57998.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Hyundai Kona N Line Ultimate | CLEAN LOCAL BC VEHICLE | NAVIGATION | LEATHER | HEATED / COOLED SEAT | SUNROOF | H",
       "vin": "KM8HECA33TU471938",
       "url": "https://gokiawest.aioptics.ca/used/69330903360c.html",
@@ -2103,14 +2056,25 @@
       "condition": "used"
     },
     {
-      "name": "2026 Kia EV9 Land w/Plus Package | NAVIGATION | SUNROOF | LEATH",
+      "name": "2026 Kia EV9 Land w/Plus Package | NO REPORTED ACCIDENTS | NAVIGATION | SUNROOF | LEATHER | HEATED SEATS & STEERI",
       "vin": "KNDADFS58T6076670",
       "url": "https://gokiawest.aioptics.ca/used/fa124dccad1d.html",
       "year": 2026,
       "make": "Kia",
       "model": "EV9 Land w/Plus Package",
       "condition": "used",
-      "price": 68789.0,
+      "price": 68775.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia Seltos LX | CLEAN LOCAL BC VEHICLE | FORWARD COLLISION AVOIDANCE | BLIND SPOT COLLISION AVOIDANCE | HEATED ",
+      "vin": "KNDEPCAA9T7882100",
+      "url": "https://gokiawest.aioptics.ca/used/4c0dc8c73494.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "used",
+      "price": 26791.0,
       "price_currency": "CAD"
     },
     {
@@ -2145,6 +2109,26 @@
       "condition": "used",
       "price": 39499.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia Sportage Hybrid EX HEV | NO REPORTED ACCIDENTS |  LEATHER | SUNROOF | ANDROID AUTO & APPLE CARPLAY | SMART POWER TAI",
+      "vin": "KNDPVDDG2T7304067",
+      "url": "https://gokiawest.aioptics.ca/used/460494fae01a.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "used",
+      "price": 38391.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Kia Sportage Hybrid EX PREMIUM HEV | NAVIGATION | LEATHER SEATING | BLIND SPOT DETECTION | HETAED SEATS",
+      "vin": "KNDPVDDG4T7325597",
+      "url": "https://gokiawest.aioptics.ca/used/bce32552b457.html",
+      "year": 2026,
+      "make": "Kia",
+      "model": "Sportage Hybrid",
+      "condition": "used"
     },
     {
       "name": "2026 Kia Sportage X-Line | LEATHER | HEATED SEAT & STEERING | CRUISE",
