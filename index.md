@@ -1,6 +1,6 @@
 # Go Kia West
 
-Kia dealership in Coquitlam. AI-readable inventory mirror, about 695 vehicles.
+Kia dealership in Coquitlam. AI-readable inventory mirror, about 681 vehicles.
 
 - Official website: https://www.kiawest.com
 - Used vehicles: https://gokiawest.aioptics.ca/used/
