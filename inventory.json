@@ -1,6 +1,6 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-11-18T07:38:05",
+  "generated_at": "2026-11-18T16:11:16",
   "vehicle_count": 691,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -26,14 +26,14 @@
       "condition": "used"
     },
     {
-      "name": "2012 Honda Civic Sedan EX | SUNROOF | LEATHER WHEEL | BLUETOOTH | ECON MO",
+      "name": "2012 Honda Civic Sedan EX | CLEAN LOCAL BC VEHICLE | SUNROOF | LEATHER WHEEL | BLUETOOTH | ECON MODE | AC",
       "vin": "2HGFB2F55CH115892",
       "url": "https://gokiawest.aioptics.ca/used/c55dc739e032.html",
       "year": 2012,
       "make": "Honda",
       "model": "Civic",
       "condition": "used",
-      "price": 10998.0,
+      "price": 10699.0,
       "price_currency": "CAD"
     },
     {
@@ -291,14 +291,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Kia Soul EX | HEATED SEATS | HEATED STEERING | DRIVE MODE SELECT | REAR VIEW CAMERACRUISE CONTROL",
+      "name": "2019 Kia Soul EX | LOCAL BC VEHICLE | HEATED SEATS | HEATED STEERING | DRIVE MODE SELECT | REAR VIEW CAMERACRUISE ",
       "vin": "KNDJP3A57K7657089",
       "url": "https://gokiawest.aioptics.ca/used/d062a6182bf3.html",
       "year": 2019,
       "make": "Kia",
       "model": "Soul",
       "condition": "used",
-      "price": 12698.0,
+      "price": 12399.0,
       "price_currency": "CAD"
     },
     {
@@ -560,14 +560,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia Carnival LX | ANDROID AUTO & APPLE CARPLAY | DRIVE MODE SELECT | 8 PASSENGER | FORWARD COLLISION AVOIDANCE | ",
+      "name": "2022 Kia Carnival LX | LOCAL BC VEHICLE | ANDROID AUTO & APPLE CARPLAY | DRIVE MODE SELECT | 8 PASSENGER | FORWARD COL",
       "vin": "KNDNB5H3XN6120890",
       "url": "https://gokiawest.aioptics.ca/used/6023e73d56dc.html",
       "year": 2022,
       "make": "Kia",
       "model": "Carnival",
       "condition": "used",
-      "price": 31698.0,
+      "price": 27999.0,
       "price_currency": "CAD"
     },
     {
@@ -681,14 +681,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda CR-V Sport | BLIND SPOT INFORMATION | LANE KEEP ASSIST |  TTRAFFIC JAM ASSIST | REMOTE START | HEATED SEA",
+      "name": "2023 Honda CR-V Sport | CLEAN CARFAX | BLIND SPOT INFORMATION | LANE KEEP ASSIST | HEATED SEATS",
       "vin": "2HKRS4H57PH123221",
       "url": "https://gokiawest.aioptics.ca/used/bc25b0ff0697.html",
       "year": 2023,
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 35898.0,
+      "price": 32994.0,
       "price_currency": "CAD"
     },
     {
@@ -780,14 +780,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Forte Sedan EX | ANDROID AUTO & APPLE CARPLAY | HEATED SEATS & STEERING | WIRELESS CHARGE | BLIND SPOT DETECTION",
+      "name": "2023 Kia Forte Sedan EX | NO REPORTED ACCIDENTS | ANDROID AUTO & APPLE CARPLAY | HEATED SEATS & STEERING | WIRELESS CHARG",
       "vin": "3KPF34AD8PE670990",
       "url": "https://gokiawest.aioptics.ca/used/ec228d77a4c1.html",
       "year": 2023,
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 19898.0,
+      "price": 19299.0,
       "price_currency": "CAD"
     },
     {
@@ -879,14 +879,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Sportage X-Line | PUSH START | LEATHER | WIRELESS CHARGER | BLIND SPOT COLISSION AVOIDANCE | ANDROID AUTO & A",
+      "name": "2023 Kia Sportage X-Line | NO REPORTED ACCIDENTS | PUSH START | LEATHER | WIRELESS CHARGER | BLIND SPOT COLISSION AVOI",
       "vin": "KNDPUCAF7P7125344",
       "url": "https://gokiawest.aioptics.ca/used/4427cce088e9.html",
       "year": 2023,
       "make": "Kia",
       "model": "Sportage",
       "condition": "used",
-      "price": 28198.0,
+      "price": 27943.0,
       "price_currency": "CAD"
     },
     {
@@ -923,14 +923,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Kia Telluride X-Line | COOLING SEATS | NAVIGATION | 360 CAM | SUNROOF |  PREMIUM SOUND SYSTEM",
+      "name": "2023 Kia Telluride X-Line | CLEAN LOCAL BC VEHICLE | COOLING SEATS | NAVIGATION | 360 CAM | SUNROOF |  PREMIUM SOUND SY",
       "vin": "5XYP5DGC2PG344389",
       "url": "https://gokiawest.aioptics.ca/used/2e06e5c6bb13.html",
       "year": 2023,
       "make": "Kia",
       "model": "Telluride",
       "condition": "used",
-      "price": 49598.0,
+      "price": 48869.0,
       "price_currency": "CAD"
     },
     {
@@ -945,14 +945,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Mitsubishi RVR ES | HEATED SEAT | ANDROID AUTO & APPLE CARPLAY | REVERSE CAMERA | BLUETOOTH | AC",
+      "name": "2023 Mitsubishi RVR ES | LOCAL BC VEHICLE | HEATED SEAT | ANDROID AUTO & APPLE CARPLAY | REVERSE CAMERA | BLUETOOTH | AC",
       "vin": "JA4AHUAU7PU600873",
       "url": "https://gokiawest.aioptics.ca/used/8a6c00a6e71c.html",
       "year": 2023,
       "make": "Mitsubishi",
       "model": "RVR",
       "condition": "used",
-      "price": 19498.0,
+      "price": 18971.0,
       "price_currency": "CAD"
     },
     {
@@ -1055,14 +1055,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Carnival SX | BC VEHICLE | NAVIGATION | LEATHER | SUNROOF | HESTED / COOLED SEATS | BOSE SOUND SYSTEM",
+      "name": "2024 Kia Carnival SX | BC VEHICLE | FULLY LOADED | NAVIGATION | LEATHER | SUNROOF | HEATED / COOLED SEATS | BOSE SOUND",
       "vin": "KNDNE5H39R6376807",
       "url": "https://gokiawest.aioptics.ca/used/baf1c91a529f.html",
       "year": 2024,
       "make": "Kia",
       "model": "Carnival",
       "condition": "used",
-      "price": 41999.0,
+      "price": 39999.0,
       "price_currency": "CAD"
     },
     {
@@ -1099,14 +1099,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Kia Forte Sedan EX | WIRELESS CHARGE | HEATED SEATS & STEERING | L",
+      "name": "2024 Kia Forte Sedan EX | WIRELESS CHARGE | HEATED SEATS & STEERING | LANE KEEP ASSIST | BLIND SPOT DETECTION | ANDROID A",
       "vin": "3KPF34AD6RE775501",
       "url": "https://gokiawest.aioptics.ca/used/479b712731fa.html",
       "year": 2024,
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 18998.0,
+      "price": 18466.0,
       "price_currency": "CAD"
     },
     {
@@ -1117,7 +1117,7 @@
       "make": "Kia",
       "model": "Forte",
       "condition": "used",
-      "price": 19899.0,
+      "price": 18899.0,
       "price_currency": "CAD"
     },
     {
@@ -1458,7 +1458,7 @@
       "make": "Genesis",
       "model": "GV70",
       "condition": "used",
-      "price": 47999.0,
+      "price": 46981.0,
       "price_currency": "CAD"
     },
     {
@@ -1968,14 +1968,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-5 GS | LEATHER | HEATED SEATS & STEERING | PUSH START | POWER TAILGATE | DRIVE MODE SELECT",
+      "name": "2025 Mazda CX-5 GS | NO REPORTED ACCIDENTS | LEATHER | HEATED SEATS & STEERING | PUSH START | POWER TAILGATE | DRIVE",
       "vin": "JM3KFBCL3S0682990",
       "url": "https://gokiawest.aioptics.ca/used/b883a8892165.html",
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 31399.0,
+      "price": 29499.0,
       "price_currency": "CAD"
     },
     {
@@ -2065,14 +2065,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Kia Sportage Hybrid EX Premium HEV | LEATHER | SUNROOF | ANDROID AUTO",
+      "name": "2026 Kia Sportage Hybrid EX Premium HEV | CLEAN LOCAL BC VEHICLE | LEATHER | SUNROOF | ANDROID AUTO & APPLE CARPLAY | SMART P",
       "vin": "KNDPVDDG2T7326151",
       "url": "https://gokiawest.aioptics.ca/used/a4f2d7184940.html",
       "year": 2026,
       "make": "Kia",
       "model": "Sportage Hybrid",
       "condition": "used",
-      "price": 44998.0,
+      "price": 41999.0,
       "price_currency": "CAD"
     },
     {
@@ -4197,14 +4197,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue Rock Creek | LEATHER | PWR DR SEAT | HEATED SEATS",
+      "name": "2026 Nissan Rogue Rock Creek | CLEAN LOCAL BC VEHICLE | LEATHER | PWR DR SEAT | HEATED SEATS & STEERING | INTELLIGENT ",
       "vin": "JN8BT3BB3TW383549",
       "url": "https://gokiawest.aioptics.ca/used/87e8cd5fffd3.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 37498.0,
+      "price": 36699.0,
       "price_currency": "CAD"
     },
     {
