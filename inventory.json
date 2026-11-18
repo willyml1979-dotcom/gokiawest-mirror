@@ -1,7 +1,7 @@
 {
   "dealership": "Go Kia West",
-  "generated_at": "2026-11-17T22:03:50",
-  "vehicle_count": 677,
+  "generated_at": "2026-11-18T00:27:40",
+  "vehicle_count": 691,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -3098,17 +3098,6 @@
     },
     {
       "name": "2026 Kia Niro EV Wind+ | NAV | HEATED SEATS | HEATED STEERING WHEEL",
-      "vin": "KNDCR3L13T5145758",
-      "url": "https://gokiawest.aioptics.ca/new/f7da82c679cd.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Niro EV",
-      "condition": "new",
-      "price": 40095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Niro EV Wind+ | NAV | HEATED SEATS | HEATED STEERING WHEEL",
       "vin": "KNDCR3L13T5161538",
       "url": "https://gokiawest.aioptics.ca/new/b65d9e82d8d8.html",
       "year": 2026,
@@ -3501,17 +3490,6 @@
       "model": "Sportage",
       "condition": "new",
       "price": 39948.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sportage EX AWD | SUNROOF | LEATHER SEATING | BLIND SPOT DE",
-      "vin": "KNDPVCDF9T7466229",
-      "url": "https://gokiawest.aioptics.ca/new/1591235a8cd7.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "new",
-      "price": 41948.0,
       "price_currency": "CAD"
     },
     {
@@ -4230,17 +4208,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Carnival Hybrid LX+ HEV | NAVIGATION | HEATED SEATS & STEERING | P",
-      "vin": "KNDNB5KA5V6219222",
-      "url": "https://gokiawest.aioptics.ca/new/4f8b934bbcc3.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Carnival Hybrid",
-      "condition": "new",
-      "price": 51016.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2027 Kia Carnival Hybrid SX+ HEV | NAVIGATION | 7 PASSENGER | DUAL SUNROOF",
       "vin": "KNDNE5KA4V6219672",
       "url": "https://gokiawest.aioptics.ca/new/d6f1bcba4252.html",
@@ -4447,6 +4414,94 @@
       "model": "Carnival",
       "condition": "new",
       "price": 45818.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival LX+ | NAVIGATION | SMART POWER TAILGAT | POWER SLIDING DOORS | HEATED SEATS | BLIND SPOT COLLISION A",
+      "vin": "KNDNB5K34V6680607",
+      "url": "https://gokiawest.aioptics.ca/new/99d921f497f1.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 48623.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival SX | NAVIGATION |SUNROOF | DIGITAL KEY | VENTILKATED FR SEATS | PASSENGER VIEW CAMERA COMMUNICATION ",
+      "vin": "KNDNE5K32V6680886",
+      "url": "https://gokiawest.aioptics.ca/new/90f47b041d93.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 56523.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival LX | NAVIGATION | BLIND SPOT COLLISION AVOIDANCE | SMART KEY | PUSH START | FORWARD COLLISION AVOIDA",
+      "vin": "KNDNB5K36V6680916",
+      "url": "https://gokiawest.aioptics.ca/new/c0602390bd07.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 45123.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival LX+ | NAVIGATION | SMART POWER TAILGAT | POWER SLIDING DOORS | HEATED SEATS | BLIND SPOT COLLISION A",
+      "vin": "KNDNB5K37V6681105",
+      "url": "https://gokiawest.aioptics.ca/new/fafc7b2b398f.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 48623.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival SX | NAVIGATION |SUNROOF | DIGITAL KEY | VENTILKATED FR SEATS | PASSENGER VIEW CAMERA COMMUNICATION ",
+      "vin": "KNDNE5K39V6680559",
+      "url": "https://gokiawest.aioptics.ca/new/54a5902a6607.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 56523.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival EX | NAVIGATION |WIRELESS PHONE CHARGER | LEATHER | POWER FR SEATS | SMART POWER TAILGAT | POWER SLI",
+      "vin": "KNDNC5K30V6680956",
+      "url": "https://gokiawest.aioptics.ca/new/776aa0d986dc.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 51523.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival SX+ | NAVIGATION |7 PASSENEGR | SUNROOF | DIGITAL KEY | VENTILKATED FR SEATS | PASSENGER VIEW CAMERA",
+      "vin": "KNDNE5K35V6681336",
+      "url": "https://gokiawest.aioptics.ca/new/d389c7396dc0.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 58523.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Carnival SX | NAVIGATION |SUNROOF | DIGITAL KEY | VENTILKATED FR SEATS | PASSENGER VIEW CAMERA COMMUNICATION ",
+      "vin": "KNDNE5K34V6680890",
+      "url": "https://gokiawest.aioptics.ca/new/2382b959d0be.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Carnival",
+      "condition": "new",
+      "price": 56523.0,
       "price_currency": "CAD"
     },
     {
@@ -4814,6 +4869,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia EV5 Land",
+      "vin": "KNDH44DA7V7066769",
+      "url": "https://gokiawest.aioptics.ca/new/c05ba6617c97.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV5 Land",
+      "condition": "new"
+    },
+    {
       "name": "2027 Kia EV9 Land | NAVIGATION | TERRAIN MODES | HEAT PUMP | HEATED STEERING | POWER LIFTGATE | LEATHER | BLIND S",
       "vin": "KNDAFFS53V6089680",
       "url": "https://gokiawest.aioptics.ca/new/c6637cc8da52.html",
@@ -4955,6 +5019,42 @@
       "year": 2027,
       "make": "Kia",
       "model": "EV9",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Kia EV9 Wind",
+      "vin": "KNDAB5S12V6089818",
+      "url": "https://gokiawest.aioptics.ca/new/400874fd5c99.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Kia EV9 Land w/Plus Nightsky Pkg | NAVIGATION |DUAL SUNROOF | STEERING WHEEL ILLUMINATION | TERRAIN MODES |",
+      "vin": "KNDADFS50V6089593",
+      "url": "https://gokiawest.aioptics.ca/new/09dcb046d4ac.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9 Land w/Plus Nightsky Pkg",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Kia EV9 Land",
+      "vin": "KNDAFFS54V6089770",
+      "url": "https://gokiawest.aioptics.ca/new/13233c34fa23.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9 Land",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Kia EV9 Land w/GT-Line 7P Pkg | NAVIGATION |HUD | REMOTE SMART PARK ASSIST | V2L | AMBIENT MOOD LIGHTING | D",
+      "vin": "KNDAEFS50V6089719",
+      "url": "https://gokiawest.aioptics.ca/new/f4eeda9135d3.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "EV9 Land w/GT-Line 7P Pkg",
       "condition": "new"
     },
     {
@@ -5123,6 +5223,26 @@
       "condition": "new"
     },
     {
+      "name": "2027 Kia K4 LX",
+      "vin": "3KPFT4DE4VE438971",
+      "url": "https://gokiawest.aioptics.ca/new/d19b0dacf76e.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Kia K4 GT-Line Turbo | NAVIGATION | VENTILATED SEATS | PADDLE SHIFTERS | SUNROOF | LEATHER | HEATED STEERIN",
+      "vin": "3KPFW4DC4VE437809",
+      "url": "https://gokiawest.aioptics.ca/new/97b915294ba5.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "K4",
+      "condition": "new",
+      "price": 34373.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia PV5 Cargo Plus",
       "vin": "KNCWD4U19V5065369",
       "url": "https://gokiawest.aioptics.ca/new/c39f45c0b1fa.html",
@@ -5287,17 +5407,6 @@
       "name": "2027 Kia Seltos LX FWD | ANDROID AUTO & APPLE CARPLAY | SMART KEY",
       "vin": "KNDEB3D38V7026625",
       "url": "https://gokiawest.aioptics.ca/new/a89fd59f8376.html",
-      "year": 2027,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 30773.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Kia Seltos LX FWD | ANDROID AUTO & APPLE CARPLAY | SMART KEY",
-      "vin": "KNDEB3D38V7026110",
-      "url": "https://gokiawest.aioptics.ca/new/05845cad132a.html",
       "year": 2027,
       "make": "Kia",
       "model": "Seltos",
@@ -6142,9 +6251,29 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Kia Seltos LX | ANDROID AUTO & APPLE CARPLAY | AWD | SMART KEY | PUSH START | HEATED SEAT | LED HEADLIGHTS",
+      "vin": "KNDEBCD32V7086898",
+      "url": "https://gokiawest.aioptics.ca/new/53d5bcd90d49.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Seltos",
+      "condition": "new",
+      "price": 32773.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Kia Sorento Hybrid EX",
       "vin": "KNDRGDJG9V5576766",
       "url": "https://gokiawest.aioptics.ca/new/51736926f279.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sorento Hybrid",
+      "condition": "new"
+    },
+    {
+      "name": "2027 Kia Sorento Hybrid SX",
+      "vin": "KNDRHDJG7V5577024",
+      "url": "https://gokiawest.aioptics.ca/new/c2e2957ec7b7.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sorento Hybrid",
@@ -6653,139 +6782,169 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED",
+      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED FR SEATS  | LEATHER | KIA CONNECT | OTA UPDATES | ",
       "vin": "KNDPVDDG6V7465671",
       "url": "https://gokiawest.aioptics.ca/new/4c60c90576c4.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 46973.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED",
+      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED FR SEATS  | LEATHER | KIA CONNECT | OTA UPDATES | ",
       "vin": "KNDPVDDGXV7465642",
       "url": "https://gokiawest.aioptics.ca/new/a529ed189ef6.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 46973.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA",
+      "name": "2027 Kia Sportage Hybrid EX HEV | NAVIGATION | LEATHER | KIA CONNECT | OTA UPDATES | FORWARD COLLISION AVOIDANCE ASSIST |",
       "vin": "KNDPVDDGXV7466953",
       "url": "https://gokiawest.aioptics.ca/new/6da11e60a1fc.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 43973.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED",
+      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED FR SEATS  | LEATHER | KIA CONNECT | OTA UPDATES | ",
       "vin": "KNDPVDDG4V7466429",
       "url": "https://gokiawest.aioptics.ca/new/3027a7c9b5bb.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 46973.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
+      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW MONITOR | DIGITAL KEY | AIR COOLED FR SEATS  | LE",
       "vin": "KNDPXDDG5V7466384",
       "url": "https://gokiawest.aioptics.ca/new/faf5ef228540.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 50473.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED",
+      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED FR SEATS  | LEATHER | KIA CONNECT | OTA UPDATES | ",
       "vin": "KNDPVDDG2V7465599",
       "url": "https://gokiawest.aioptics.ca/new/1e9263ee5e94.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 46973.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
+      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW MONITOR | DIGITAL KEY | AIR COOLED FR SEATS  | LE",
       "vin": "KNDPXDDG5V7466322",
       "url": "https://gokiawest.aioptics.ca/new/6f28f17b1167.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 50473.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
+      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW MONITOR | DIGITAL KEY | AIR COOLED FR SEATS  | LE",
       "vin": "KNDPXDDG9V7466341",
       "url": "https://gokiawest.aioptics.ca/new/938bf49f700d.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 50473.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
+      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW MONITOR | DIGITAL KEY | AIR COOLED FR SEATS  | LE",
       "vin": "KNDPXDDG7V7466340",
       "url": "https://gokiawest.aioptics.ca/new/857149e7c849.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 50473.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED",
+      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED FR SEATS  | LEATHER | KIA CONNECT | OTA UPDATES | ",
       "vin": "KNDPVDDG4V7465751",
       "url": "https://gokiawest.aioptics.ca/new/b682670e76c1.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 46973.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
+      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW MONITOR | DIGITAL KEY | AIR COOLED FR SEATS  | LE",
       "vin": "KNDPXDDG9V7467098",
       "url": "https://gokiawest.aioptics.ca/new/4f853cc36d1f.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 50473.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
+      "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW MONITOR | DIGITAL KEY | AIR COOLED FR SEATS  | LE",
       "vin": "KNDPXDDG9V7466355",
       "url": "https://gokiawest.aioptics.ca/new/2b7c9ac411cd.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 50473.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED",
+      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED FR SEATS  | LEATHER | KIA CONNECT | OTA UPDATES | ",
       "vin": "KNDPVDDG9V7466197",
       "url": "https://gokiawest.aioptics.ca/new/99f63bec898d.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 46973.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED",
+      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED FR SEATS  | LEATHER | KIA CONNECT | OTA UPDATES | ",
       "vin": "KNDPVDDG6V7465749",
       "url": "https://gokiawest.aioptics.ca/new/c76aabe2756f.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 46973.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED",
+      "name": "2027 Kia Sportage Hybrid EX Premium HEV | NAVIGATION |SUNROOF | AIR COOLED FR SEATS  | LEATHER | KIA CONNECT | OTA UPDATES | ",
       "vin": "KNDPVDDG8V7465669",
       "url": "https://gokiawest.aioptics.ca/new/c55cea90d0d1.html",
       "year": 2027,
       "make": "Kia",
       "model": "Sportage Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "price": 46973.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Kia Sportage Hybrid SX HEV | NAVIGATION |SUNROOF | HUD | SURROUND VIEW",
@@ -7267,6 +7426,15 @@
       "condition": "new",
       "price": 48223.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Kia Sportage LX",
+      "vin": "KNDPU3DF2V7559034",
+      "url": "https://gokiawest.aioptics.ca/new/b0ee8a1573c3.html",
+      "year": 2027,
+      "make": "Kia",
+      "model": "Sportage",
+      "condition": "new"
     }
   ]
 }
